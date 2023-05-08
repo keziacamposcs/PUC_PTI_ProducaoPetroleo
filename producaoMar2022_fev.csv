@@ -1,0 +1,1775 @@
+Ano;Mês/Ano;Estado;Bacia;Campo;Poço;Ambiente;Instalação;Produção de Óleo (m³);Produção de Condensado (m³);Produção de Gás Associado (Mm³);Produção de Gás Não Associado (Mm³);Produção de Água (m³);Injeção de Gás (Mm³);Injeção de Água para Recuperação Secundária (m³);Injeção de Água para Descarte (m³);Injeção de Gás Carbônico (Mm³);Injeção de Nitrogênio (Mm³);Injeção de Vapor de Água (t);Injeção de Polímeros (m³);Injeção de Outros Fluidos (m³)
+2022;02/2022;Alagoas;Alagoas;PARU;4-ALS-39-AL;Mar;Estação de Paru;0;243;2902;0;2163;47713;5;1454;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-1-BAS;Mar;PLATAFORMA DE MANATI 1;0;193;141;0;13132;62429;81;422;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-2-BAS;Mar;PLATAFORMA DE MANATI 1;0;196;579;0;13123;35597;81;365;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-3-BAS;Mar;PLATAFORMA DE MANATI 1;0;146;435;0;8814;26659;58;173;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-4-BAS;Mar;PLATAFORMA DE MANATI 1;0;204;467;0;13902;72434;93;146;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-5D-BAS;Mar;PLATAFORMA DE MANATI 1;0;125;9;0;17779;56493;80;7;;;;;
+2022;02/2022;Bahia;Camamu;MANATI;7-MNT-6D-BAS;Mar;PLATAFORMA DE MANATI 1;0;186;646;0;17572;6464;91;375;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-173D-BA;Mar;Estação Pedra Branca;56;5;0;42;8722;0;0;692;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-174D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-197D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-201D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-202D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-203D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-211D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;CANDEIAS;7-C-212D-BA;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO;7-DJM-854H-BAS;Mar;Estação Marapé (Dom João Mar);295;5853;0;10;1204;0;2727;47508;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO;7-DJM-856H-BAS;Mar;Estação Marapé (Dom João Mar);171;99589;0;1;66823;0;3686;75834;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO;8-DJ-811H-BAS;Mar;Estação Marapé (Dom João Mar);;;;;;0;1962;26632;0;0;0;0;0
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO;8-DJM-858H-BAS;Mar;Estação Marapé (Dom João Mar);;;;;;0;2313;98524;0;0;0;0;0
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO;8-DJM-881H-BAS;Mar;Estação Marapé (Dom João Mar);114;92739;0;2;70064;0;1498;22466;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;7-DJM-854H-BAS;Mar;Estação Marapé (Dom João Mar);43;11747;0;1;47879;0;398;57092;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;7-DJM-856H-BAS;Mar;Estação Marapé (Dom João Mar);25;13411;0;0;24363;0;538;75266;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;7-DJM-857H-BAS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;7-DJM-882H-BAS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;8-DJ-811H-BAS;Mar;Estação Marapé (Dom João Mar);;;;;;0;286;74968;0;0;0;0;0
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;8-DJM-858H-BAS;Mar;Estação Marapé (Dom João Mar);;;;;;0;338;14676;0;0;0;0;0
+2022;02/2022;Bahia;Recôncavo;DOM JOÃO MAR;8-DJM-881H-BAS;Mar;Estação Marapé (Dom João Mar);16;79461;0;0;39452;0;218;93834;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;3-AT-8-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;3-CES-83-CE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;3-CES-86D-CE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-10D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-13D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-16D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-17D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-18D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-19D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-21DP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-22DP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-2D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-4D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-6D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-AT-7D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;7-CES-84D-CE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;8-AT-11D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ATUM;8-AT-12D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-11D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-14D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-17D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-21D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-22D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-24D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-28HP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-2D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-4D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-6D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;7-CR-7D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;CURIMÃ;8-CR-13D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;3-CES-37D-CE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;3-CES-38D-CE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;7-EP-2D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;7-EP-3D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;7-EP-4D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;7-EP-7D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;ESPADA;7-EP-8DP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-10D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-11D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-12D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-13D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-14-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-15D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-17D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-1D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-20D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-21D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-22D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-24D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-28D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-31D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-36HP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-38HP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-39HP-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-3D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-4D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-8D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;7-XA-9-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Ceará;Ceará;XARÉU;8-XA-25D-CES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;ABALONE;7-ABA-2D-ESS;Mar;FPSO ESPIRITO SANTO;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-10H-ESS;Mar;FPSO ESPIRITO SANTO;8519;1831;0;554;75003;0;28241;62195;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-13H-ESS;Mar;FPSO ESPIRITO SANTO;17758;88047;0;941;96498;0;28280;61593;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-14H-ESS;Mar;FPSO ESPIRITO SANTO;8308;13342;0;530;3645;0;22986;29422;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-17H-ESS;Mar;FPSO ESPIRITO SANTO;11;20505;0;1;23627;0;1901;58484;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-18H-ESS;Mar;FPSO ESPIRITO SANTO;3906;92472;0;166;6709;0;4196;12104;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-19H-ESS;Mar;FPSO ESPIRITO SANTO;10218;85348;0;556;11431;0;14581;13157;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-20H-ESS;Mar;FPSO ESPIRITO SANTO;10748;63106;0;961;6007;0;6520;66045;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-2H-ESS;Mar;FPSO ESPIRITO SANTO;1008;3122;0;49;25635;0;2625;94262;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-3H-ESS;Mar;FPSO ESPIRITO SANTO;580;10916;0;35;4985;0;17065;67773;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-4HC-ESS;Mar;FPSO ESPIRITO SANTO;1309;71494;0;111;1285;0;16230;961;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-5H-ESS;Mar;FPSO ESPIRITO SANTO;2990;88669;0;186;94694;0;6970;91088;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-8H-ESS;Mar;FPSO ESPIRITO SANTO;4618;73353;0;318;30972;0;6139;51116;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-ARGO-9H-ESS;Mar;FPSO ESPIRITO SANTO;3184;10808;0;227;5166;0;23994;3374;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-NAU-1H-ESS;Mar;FPSO ESPIRITO SANTO;1577;1075;0;113;83807;0;0;35775;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-NAU-2H-ESS;Mar;FPSO ESPIRITO SANTO;2425;7754;0;408;9053;0;7458;107;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-NAU-3H-ESS;Mar;FPSO ESPIRITO SANTO;2744;35183;0;206;89845;0;343;52907;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;7-NAU-4H-ESS;Mar;FPSO ESPIRITO SANTO;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-ARGO-11H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;63913;80651;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-ARGO-12H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;57242;39229;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-ARGO-6H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;37160;61093;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-ARGO-7H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;51704;46997;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-NAU-5H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;ARGONAUTA;8-NAU-6H-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;BALEIA ANÃ;7-BLA-1HA-ESS;Mar;PETROBRAS 58;13343;62;0;711;78476;0;101550;26;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;3-BRSA-149HP-ESS;Mar;PETROBRAS 57;14581;748;0;903;9793;0;91532;772;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;6-BRSA-1222A-ESS;Mar;PETROBRAS 58;46308;901;0;9766;4245;0;48521;554;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;6-BRSA-631DB-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;6-BRSA-639-ESS;Mar;FPSO CAPIXABA;52331;105;0;10998;10901;0;14004;54;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BAZ-10DA-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BAZ-3-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BAZ-4-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BAZ-8-ESS;Mar;PETROBRAS 58;11901;88;0;2808;35981;0;12608;299;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BAZ-9HA-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BFR-10HP-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BFR-12PA-ESS;Mar;PETROBRAS 58;43333;581;0;12520;88904;0;4989;219;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BFR-13H-ESS;Mar;PETROBRAS 58;16682;622;0;1473;3777;0;54150;12;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BFR-6-ESS;Mar;PETROBRAS 58;;;;;;0;166395;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-BFR-7-ESS;Mar;PETROBRAS 58;29427;118;0;6185;47288;0;8566;156;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-CHT-5HA-ESS;Mar;FPSO CAPIXABA;10302;392;0;680;33147;0;23343;736;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-CHT-7HP-ESS;Mar;FPSO CAPIXABA;16805;673;0;1168;6221;0;23608;635;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-CHT-9H-ESS;Mar;FPSO CAPIXABA;7036;14;0;680;26181;0;22691;47;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-11HP-ESS;Mar;PETROBRAS 57;6411;628;0;278;60679;0;54300;441;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-13HP-ESS;Mar;PETROBRAS 57;14781;564;0;843;71639;0;105237;769;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-14HA-ESS;Mar;PETROBRAS 57;5049;604;0;227;11049;0;53385;278;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-16HP-ESS;Mar;PETROBRAS 57;16797;839;0;929;342;0;66482;344;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-18HP-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-19H-ESS;Mar;PETROBRAS 57;10001;623;0;677;30387;0;71671;383;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-24H-ESS;Mar;PETROBRAS 57;11751;938;0;734;95133;0;110138;205;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-27HP-ESS;Mar;PETROBRAS 57;15054;348;0;905;73664;0;96122;653;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-2HPA-ESS;Mar;PETROBRAS 57;6595;54;0;364;3948;0;9408;505;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-31H-ESS;Mar;PETROBRAS 57;13767;656;0;761;63807;0;82822;713;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-33H-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-34H-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-36-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-37H-ESS;Mar;PETROBRAS 58;24053;43;0;1755;76714;0;89608;104;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-38-ESS;Mar;PETROBRAS 58;;;;;;0;15891;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-44-ESS;Mar;PETROBRAS 58;8988;72;0;1762;65673;0;5665;555;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-45-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-49-ESS;Mar;PETROBRAS 58;;;;;;0;122140;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-4HP-ESS;Mar;PETROBRAS 57;12587;56;0;647;82216;0;52883;945;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-51H-ESS;Mar;PETROBRAS 57;5762;9;0;417;20881;0;61490;429;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-53H-ESS;Mar;PETROBRAS 57;12951;637;0;722;11652;0;74283;83;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-54HA-ESS;Mar;PETROBRAS 57;14130;908;0;830;12165;0;92512;23;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-55-ESS;Mar;PETROBRAS 58;5836;655;0;1167;1889;0;4674;382;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-57DPA-ESS;Mar;PETROBRAS 58;46435;68;0;8165;14362;0;75144;475;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-58DPA-ESS;Mar;PETROBRAS 58;31291;123;0;6708;87915;0;20439;523;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-6HA-ESS;Mar;PETROBRAS 57;5704;659;0;308;21468;0;9185;718;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;7-JUB-9HP-ESS;Mar;PETROBRAS 57;11344;562;0;803;2093;0;74012;241;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-BFR-5HP-ESS;Mar;FPSO CAPIXABA;;;;;;0;58277;1;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-CHT-10H-ESS;Mar;FPSO CAPIXABA;;;;;;0;163928;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-CHT-8H-ESS;Mar;FPSO CAPIXABA;;;;;;0;165831;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-20H-ESS;Mar;PETROBRAS 57;;;;;;0;229673;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-23HB-ESS;Mar;PETROBRAS 57;;;;;;0;232924;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-25HA-ESS;Mar;PETROBRAS 57;;;;;;0;351010;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-28HA-ESS;Mar;PETROBRAS 57;;;;;;0;246119;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-29H-ESS;Mar;PETROBRAS 57;;;;;;0;218220;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-30HA-ESS;Mar;PETROBRAS 57;;;;;;0;120960;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-32H-ESS;Mar;PETROBRAS 57;;;;;;0;5011;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-39-ESS;Mar;PETROBRAS 58;18756;549;0;3737;49431;0;13232;742;;;;;
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-42DA-ESS;Mar;PETROBRAS 58;;;;;;0;204047;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-46D-ESS;Mar;PETROBRAS 58;;;;;;0;112255;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-47D-ESS;Mar;PETROBRAS 58;;;;;;0;120805;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-50D-ESS;Mar;PETROBRAS 58;;;;;;0;146124;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;JUBARTE;8-JUB-52H-ESS;Mar;PETROBRAS 57;;;;;;0;126399;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-10H-ESS;Mar;FPSO ESPIRITO SANTO;3191;28791;0;165;78306;0;15118;77678;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-1H-ESS;Mar;FPSO ESPIRITO SANTO;2644;54546;0;181;21191;0;22321;20879;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-2H-ESS;Mar;FPSO ESPIRITO SANTO;2514;7019;0;157;809;0;28632;38171;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-3H-ESS;Mar;FPSO ESPIRITO SANTO;8709;12694;0;395;14512;0;39334;9211;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-6H-ESS;Mar;FPSO ESPIRITO SANTO;5451;9514;0;238;5712;0;58927;52725;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-7H-ESS;Mar;FPSO ESPIRITO SANTO;6692;65568;0;337;63251;0;36957;8653;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;7-OST-9H-ESS;Mar;FPSO ESPIRITO SANTO;3053;9005;0;163;34371;0;30850;9908;;;;;
+2022;02/2022;Espírito Santo;Campos;OSTRA;9-OST-4-ESS;Mar;FPSO ESPIRITO SANTO;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Espírito Santo;Espírito Santo;CANAPU;4-BRSA-265-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;CANGOÁ;7-CAN-1D-ESS;Mar;PEROA;0;226;436;3034;41298;0;531;549;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;4-BRSA-1001-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-27HA-ESS;Mar;FPSO CIDADE DE VITÓRIA;0;258;0;0;1661;0;2;759;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-28HA-ESS;Mar;FPSO CIDADE DE VITÓRIA;1864;543;0;191;86714;0;19479;218;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-34HP-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-38H-ESS;Mar;FPSO CIDADE DE VITÓRIA;10586;766;0;653;35659;0;75714;561;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-40HA-ESS;Mar;FPSO CIDADE DE VITÓRIA;4352;288;0;239;61343;0;17948;664;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-46HA-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-49H-ESS;Mar;FPSO CIDADE DE VITÓRIA;14560;394;0;968;31577;0;1897;706;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;GOLFINHO;7-GLF-8H-ESS;Mar;FPSO CIDADE DE VITÓRIA;2749;81;0;349;21098;0;12408;42;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;PEROÁ;1-ESS-77-ESS;Mar;PEROA;0;383;816;0;10995;16441;139;953;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;PEROÁ;3-ESS-82-ESS;Mar;PEROA;0;107;418;0;3146;96044;75;23;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;PEROÁ;4-ESS-89A-ESS;Mar;PEROA;0;0;0;1536;67671;37;187;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;PEROÁ;6-BRSA-475-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Espírito Santo;Espírito Santo;PEROÁ;7-PER-2-ESS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;3-AG-19DB-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-12D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-14D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-16D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-18D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-22D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-3-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;AGULHA;7-AG-9D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;ARABAIANA;3-RNS-120-RN;Mar;PLATAFORMA DE ARABAIANA 1;0;156;368;0;1078;64985;10;343;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;ARABAIANA;3-RNS-125-RN;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;ARABAIANA;7-ARB-1D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;CIOBA;7-CIO-3HP-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;3-RNS-141D-RN;Mar;Estação Coletora de Macau;;;;;;0;175;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;3-RNS-142D-RN;Mar;Estação Coletora de Macau;;;;;;0;2320;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-MA-31D-RNS;Mar;Estação Coletora de Macau;319;87146;0;9;33818;0;485;43014;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-10D-RNS;Mar;Estação Coletora de Macau;;;;;;0;3445;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-11D-RNS;Mar;Estação Coletora de Macau;;;;;;0;59;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-12D-RNS;Mar;Estação Coletora de Macau;195;43265;0;3;10159;0;2956;8386;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-14D-RNS;Mar;Estação Coletora de Macau;24;58995;0;0;372;0;2515;70999;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-15D-RNS;Mar;Estação Coletora de Macau;;;;;;0;3856;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-16D-RNS;Mar;Estação Coletora de Macau;;;;;;0;1891;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-17D-RNS;Mar;Estação Coletora de Macau;220;5774;0;7;21397;0;375;13058;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-18D-RNS;Mar;Estação Coletora de Macau;314;14184;0;5;8258;0;2339;45511;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-19D-RNS;Mar;Estação Coletora de Macau;305;37235;0;1;34229;0;1218;93665;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-20D-RNS;Mar;Estação Coletora de Macau;548;31742;0;4;8841;0;4921;85781;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-21DA-RNS;Mar;Estação Coletora de Macau;400;20307;0;17;9194;0;5514;55475;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-22D-RNS;Mar;Estação Coletora de Macau;453;61539;0;1;98603;0;6455;20421;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-23D-RNS;Mar;Estação Coletora de Macau;285;48898;0;1;24882;0;4706;43058;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-26D-RNS;Mar;Estação Coletora de Macau;422;56376;0;32;89408;0;1367;35195;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-27D-RNS;Mar;Estação Coletora de Macau;1126;9445;0;22;57191;0;1487;99047;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-28D-RNS;Mar;Estação Coletora de Macau;1003;2486;0;7;33128;0;2493;77743;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-29D-RNS;Mar;Estação Coletora de Macau;371;31672;0;5;40337;0;3340;86267;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-2D-RNS;Mar;Estação Coletora de Macau;369;88515;0;9;97413;0;4293;59348;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-30D-RNS;Mar;Estação Coletora de Macau;621;71788;0;9;51405;0;959;46931;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-31D-RNS;Mar;Estação Coletora de Macau;439;7021;0;1;92684;0;2037;97656;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-33D-RNS;Mar;Estação Coletora de Macau;407;56838;0;1;78489;0;3580;46876;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-37D-RNS;Mar;Estação Coletora de Macau;1892;14747;0;27;74811;0;763;37587;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-38D-RNS;Mar;Estação Coletora de Macau;1177;6753;0;1;72093;0;4076;7292;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-39D-RNS;Mar;Estação Coletora de Macau;240;53702;0;1;535;0;986;42316;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-3H-RNS;Mar;Estação Coletora de Macau;325;3281;0;54;29444;0;938;31133;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-40D-RNS;Mar;Estação Coletora de Macau;794;655;0;3;47889;0;4701;13047;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-7D-RNS;Mar;Estação Coletora de Macau;284;33792;0;22;70197;0;1053;7698;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-8D-RNS;Mar;Estação Coletora de Macau;337;20617;0;9;80356;0;1347;606;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;7-SER-9D-RNS;Mar;Estação Coletora de Macau;332;46894;0;2;43117;0;1608;17053;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;MACAU;8-SER-6D-RNS;Mar;Estação Coletora de Macau;;;;;;0;851;0;0;0;0;0;0
+2022;02/2022;Rio Grande do Norte;Potiguar;OESTE DE UBARANA;1-RNS-71-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;OESTE DE UBARANA;7-OUB-1A-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;3-RNS-84-RN;Mar;PLATAFORMA DE PESCADA 1B;0;123;777;2083;2592;0;74;317;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;3-RNS-85-RN;Mar;PLATAFORMA DE PESCADA 2;128;117;0;529;58847;0;0;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;3-RNS-88D-RN;Mar;PLATAFORMA DE PESCADA 1B;4;569;59;32;210;97097;0;22;865;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;7-PE-1D-RNS;Mar;PLATAFORMA DE PESCADA 1B;0;64;404;333;92543;0;13;154;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;7-PE-2D-RNS;Mar;PLATAFORMA DE PESCADA 1B;40;429;26;479;110;81252;114;4162;27;236;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;PESCADA;7-PE-3D-RNS;Mar;PLATAFORMA DE PESCADA 1B;0;393;382;964;49;91216;16;99423;12;85;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;3-RNS-115D-RN;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;4-RNS-80-RN;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-100-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-101D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-102D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-103D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-104D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-105D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-107D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-108D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-109D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-110D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-112D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-113D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-114D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-115D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-116D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-117HP-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-11D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-14-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-15D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-17D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-18D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-21D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-24D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-30D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-33D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-37D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-39D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-42D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-46D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-47-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-50D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-52-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-53D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-54D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-55D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-56D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-57D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-59D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-6-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-60D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-62D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-63D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-64D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-65DA-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-66D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-68D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-69D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-70D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-71D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-73D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-74D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-75D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-76D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-78D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-79D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-7D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-81D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-82D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-83D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-84-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-85D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-86D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-88D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-89D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-8D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-91-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-92D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-94D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-97D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-98D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-99D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio Grande do Norte;Potiguar;UBARANA;7-UB-9D-RNS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;1-RJS-342-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;3-BRSA-1123-RJS;Mar;PETROBRAS 31;25177;135;0;4221;43232;0;418;108;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;4-BRSA-204DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;4-RJS-330A-RJ;Mar;PETROBRAS 31;1488;984;0;171;4785;0;85;395;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-103HP-RJS;Mar;PETROBRAS 25;85;4;0;26;44674;0;0;312;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-106HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-108HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-110HP-RJS;Mar;PETROBRAS 25;83;266;0;40;39432;0;138;545;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-114H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-117H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-12D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-130HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-132HP-RJS;Mar;PETROBRAS 25;1613;53311;0;538;8788;0;286;66527;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-13HA-RJS;Mar;PETROBRAS 31;2249;742;0;64;75315;0;959;622;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-17-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-23D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-26D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-27DA-RJS;Mar;PETROBRAS 25;401;448;0;390;59674;0;494;974;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-46D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-50DB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-55H-RJS;Mar;PETROBRAS 31;2653;241;0;94;8557;0;756;9;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-57HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-59H-RJS;Mar;PETROBRAS 31;2258;412;0;96;35028;0;1724;61;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-63HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-64HA-RJS;Mar;PETROBRAS 31;3245;6;0;375;12865;0;344;835;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-6D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-75-RJS;Mar;PETROBRAS 25;24;19235;0;6;14746;0;7;79688;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-78H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-80H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-81HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-89HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-95H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-97HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-AB-99HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-13HP-RJS;Mar;PETROBRAS 50;954;36512;0;136;4009;0;909;76328;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-16HP-RJS;Mar;PETROBRAS 50;675;67984;0;96;62564;0;254;93544;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-20HP-RJS;Mar;PETROBRAS 50;476;17616;0;54;35622;0;3680;27216;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-24HP-RJS;Mar;PETROBRAS 50;525;861;0;73;76017;0;1213;38525;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-44HP-RJS;Mar;PETROBRAS 50;600;73232;0;70;57797;0;1077;22552;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-50HP-RJS;Mar;PETROBRAS 50;123;62223;0;28;26521;0;535;50048;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-54HP-RJS;Mar;PETROBRAS 50;890;97648;0;140;18315;0;2332;28504;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-56HP-RJS;Mar;PETROBRAS 50;516;46752;0;72;15675;0;4702;98664;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-78HP-RJS;Mar;PETROBRAS 50;386;922;0;33;508;0;715;94928;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-81HP-RJS;Mar;PETROBRAS 50;1458;48944;0;256;35521;0;4203;87928;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-84HP-RJS;Mar;PETROBRAS 50;762;7536;0;137;85499;0;1142;52712;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;7-ABL-87HP-RJS;Mar;PETROBRAS 50;898;42776;0;91;4469;0;3693;17296;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-AB-85HP-RJS;Mar;PETROBRAS 50;;;;;;0;8355;912;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-AB-90B-RJS;Mar;PETROBRAS 25;;;;;;0;7692;412;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-18HP-RJS;Mar;PETROBRAS 50;;;;;;0;860;712;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-22HPA-RJS;Mar;PETROBRAS 50;;;;;;0;2419;332;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-36HP-RJS;Mar;PETROBRAS 50;;;;;;0;1116;4824;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-40HP-RJS;Mar;PETROBRAS 50;;;;;;0;383;9124;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-42HPA-RJS;Mar;PETROBRAS 50;;;;;;0;2184;8944;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-48HP-RJS;Mar;PETROBRAS 50;;;;;;0;2957;172;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-82HA-RJS;Mar;PETROBRAS 50;;;;;;0;11432;3936;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;8-ABL-88HA-RJS;Mar;PETROBRAS 50;;;;;;0;2069;4132;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;9-AB-135D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA;9-AB-67-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;6-BRSA-1250-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-AB-132HP-RJS;Mar;PETROBRAS 25;206;37782;0;68;8237;0;36;66567;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-AB-75-RJS;Mar;PETROBRAS 25;2;39264;0;0;60798;0;0;77111;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-AB-83HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-11H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-13HP-RJS;Mar;PETROBRAS 50;10975;19865;0;1564;46228;0;10462;27747;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-16HP-RJS;Mar;PETROBRAS 50;7770;31792;0;1111;19653;0;2931;75738;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-20HP-RJS;Mar;PETROBRAS 50;5476;257;0;625;9719;0;42323;12966;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-24HP-RJS;Mar;PETROBRAS 50;16977;78364;0;2384;91597;0;39232;78949;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-28HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-44HP-RJS;Mar;PETROBRAS 50;6908;42148;0;811;64773;0;12388;9327;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-46HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-50HP-RJS;Mar;PETROBRAS 50;3997;11859;0;913;9108;0;17314;51535;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-54HP-RJS;Mar;PETROBRAS 50;10246;2293;0;1612;10735;0;26821;27772;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-56HP-RJS;Mar;PETROBRAS 50;5939;37633;0;829;80366;0;54084;34621;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-60HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-68HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-71HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-76HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-78HP-RJS;Mar;PETROBRAS 50;12480;96453;0;1068;64595;0;23149;2644;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-81HP-RJS;Mar;PETROBRAS 50;16772;62835;0;2948;8651;0;48344;61149;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-84HP-RJS;Mar;PETROBRAS 50;8763;86643;0;1585;33378;0;13139;6166;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-87HP-RJS;Mar;PETROBRAS 50;10331;91901;0;1051;64059;0;42471;48885;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;7-ABL-8H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-AB-85HP-RJS;Mar;PETROBRAS 50;;;;;;0;96083;5488;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-AB-90B-RJS;Mar;PETROBRAS 25;;;;;;0;760;788;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-18HP-RJS;Mar;PETROBRAS 50;;;;;;0;9898;188;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-22HPA-RJS;Mar;PETROBRAS 50;;;;;;0;27822;318;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-36HP-RJS;Mar;PETROBRAS 50;;;;;;0;12839;5476;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-40HP-RJS;Mar;PETROBRAS 50;;;;;;0;12413;1676;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-42HPA-RJS;Mar;PETROBRAS 50;;;;;;0;25126;2856;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-48HP-RJS;Mar;PETROBRAS 50;;;;;;0;34007;478;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-82HA-RJS;Mar;PETROBRAS 50;;;;;;0;131472;5264;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ALBACORA LESTE;8-ABL-88HA-RJS;Mar;PETROBRAS 50;;;;;;0;66911;268;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;ANC_BRAVA;6-BRSA-770D-RJS;Mar;PETROBRAS 20;59;10959;0;11;97806;0;0;47898;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ANEQUIM;3-RJS-217B-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ANEQUIM;3-RJS-218-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BAGRE;4-BRSA-301DP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BAGRE;7-BG-7D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;1-RJS-380-RJS;Mar;PETROBRAS 43;;;;;;0;2773;107;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;1-RJS-383-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;1-RJS-401-RJS;Mar;PETROBRAS 43;4027;125;0;567;88766;0;591;136;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;3-BR-6-RJS;Mar;PETROBRAS 43;18624;254;0;2079;75207;0;3031;84728;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;3-BR-8-RJS;Mar;PETROBRAS 43;;;;;;0;29254;59238;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;4-RJS-381-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;6-BR-3-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-23HP-RJS;Mar;PETROBRAS 43;387;43233;0;60;80288;0;8222;18233;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-25HP-RJS;Mar;PETROBRAS 43;646;851;0;125;95789;0;4655;208;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-27HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-29HP-RJS;Mar;PETROBRAS 43;8438;16691;0;735;25581;0;14807;4704;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-31HP-RJS;Mar;PETROBRAS 43;990;834;0;114;87675;0;8016;759;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-36HPA-RJS;Mar;PETROBRAS 43;7102;63;0;813;33753;0;13364;978;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-40HP-RJS;Mar;PETROBRAS 43;15118;429;0;1065;78044;0;5792;259;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-42HP-RJS;Mar;PETROBRAS 43;13131;20864;0;1205;9448;0;3414;20376;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-44HP-RJS;Mar;PETROBRAS 43;12200;92191;0;892;9908;0;10146;48626;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-49HPA-RJS;Mar;PETROBRAS 43;13092;185;0;1909;76805;0;21270;504;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-51HP-RJS;Mar;PETROBRAS 43;9163;26575;0;516;20216;0;23562;68465;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-53HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-56H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-60HP-RJS;Mar;PETROBRAS 43;5619;63955;0;869;80687;0;488;66489;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-62HP-RJS;Mar;PETROBRAS 43;6689;3552;0;589;8101;0;12153;90264;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-67HP-RJS;Mar;PETROBRAS 48;15108;2;0;4032;68823;0;4538;294;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-69DA-RJS;Mar;PETROBRAS 43;10246;4232;0;1250;12823;0;8417;37052;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-71HP-RJS;Mar;PETROBRAS 48;6173;558;0;1796;82191;0;10648;128;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-73HPA-RJS;Mar;PETROBRAS 48;9395;66;0;3257;90474;0;52823;913;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-BR-80HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;7-CRT-49-RJS;Mar;PETROBRAS 48;1831;11344;0;747;19911;0;1913;49444;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-11HP-RJS;Mar;PETROBRAS 43;;;;;;0;8018;57936;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-15HP-RJS;Mar;PETROBRAS 43;;;;;;0;29645;70488;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-16HPA-RJS;Mar;PETROBRAS 43;;;;;;0;19773;574;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-34HP-RJS;Mar;PETROBRAS 43;;;;;;0;25137;36544;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-47HP-RJS;Mar;PETROBRAS 43;;;;;;0;25080;614;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-57DP-RJS;Mar;PETROBRAS 43;;;;;;0;3907;712;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-58D-RJS;Mar;PETROBRAS 43;;;;;;0;6798;678;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-65HP-RJS;Mar;PETROBRAS 48;;;;;;0;7849;938;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-76HP-RJS;Mar;PETROBRAS 48;;;;;;0;12299;752;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BARRACUDA;8-BR-78HP-RJS;Mar;PETROBRAS 43;;;;;;0;11882;449;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BIJUPIRÁ;7-BJ-18HPA-RJS;Mar;FPSO Fluminense;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BIJUPIRÁ;8-BJ-13D-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BIJUPIRÁ;8-BJ-14DA-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BIJUPIRÁ;8-BJ-15D-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BIJUPIRÁ;8-BJ-17D-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;BONITO;1-RJS-116-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;1-RJS-95-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;4-RJS-38-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;4-RJS-431-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-13H-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-14D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-15D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-1D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-20HP-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-21HP-RJS;Mar;PLATAFORMA DE ENCHOVA;4433;20745;0;156;30971;0;1616;75102;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-22H-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-23H-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-25H-RJS;Mar;PLATAFORMA DE ENCHOVA;4426;95912;0;195;8416;0;4653;413;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-5-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-BO-9D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-EN-10D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;7-EN-14D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;BONITO;8-BO-24H-RJS;Mar;PLATAFORMA DE ENCHOVA;;;;;;0;39224;16;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;3-CRP-4D-RJS;Mar;PLATAFORMA DE CARAPEBA-I;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-11-RJS;Mar;PLATAFORMA DE CARAPEBA-I;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-13D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;2861;99569;0;94;34855;0;23988;38711;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-14-RJS;Mar;PLATAFORMA DE CARAPEBA-II;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-16D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;6836;74103;0;230;2986;0;21068;31789;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-17D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;652;13334;0;33;71675;0;7463;34141;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-20D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-22D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-27D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-29D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-30D-RJS;Mar;PLATAFORMA DE CARAPEBA-I;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-35D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-36D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-37D-RJS;Mar;PLATAFORMA DE CARAPEBA-I;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-38D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;801;96443;0;62;4821;0;10654;65284;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-43D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;2408;26062;0;94;76611;0;25260;81601;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-45D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-47D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-48D-RJS;Mar;PLATAFORMA DE CARAPEBA-II;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-49D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-50D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-51D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-55D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-57D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-58D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-59D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-61D-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARAPEBA;7-CRP-63HPA-RJS;Mar;PLATAFORMA DE CARAPEBA-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;3-BR-6-RJS;Mar;PETROBRAS 43;2539;671;0;283;60244;0;413;43372;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;3-BR-8-RJS;Mar;PETROBRAS 43;;;;;;0;3989;26262;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;4-CRT-2-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-23HP-RJS;Mar;PETROBRAS 43;52;83167;0;8;29125;0;1121;20667;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-29HP-RJS;Mar;PETROBRAS 43;1150;65909;0;100;26203;0;2019;2006;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-42HP-RJS;Mar;PETROBRAS 43;1790;61936;0;164;4469;0;465;57324;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-44HP-RJS;Mar;PETROBRAS 43;1663;76209;0;121;77134;0;1383;61174;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-51HP-RJS;Mar;PETROBRAS 43;1249;53625;0;70;39109;0;3213;9335;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-60HP-RJS;Mar;PETROBRAS 43;766;31445;0;118;60991;0;66;63611;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-62HP-RJS;Mar;PETROBRAS 43;912;1848;0;80;42855;0;1657;35036;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-BR-69DA-RJS;Mar;PETROBRAS 43;9458;2368;0;1153;96454;0;7769;88048;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-17HP-RJS;Mar;PETROBRAS 48;4502;233;0;995;42368;0;31806;91;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-21HP-RJS;Mar;PETROBRAS 48;3621;441;0;1285;20047;0;22246;37;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-24D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-26HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-28HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-34HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-40HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-45HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-49-RJS;Mar;PETROBRAS 48;1690;25856;0;689;72227;0;1766;30256;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;7-CRT-8HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-BR-11HP-RJS;Mar;PETROBRAS 43;;;;;;0;1093;44264;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-BR-15HP-RJS;Mar;PETROBRAS 43;;;;;;0;4042;59612;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-BR-34HP-RJS;Mar;PETROBRAS 43;;;;;;0;3427;82256;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-CRT-23HP-RJS;Mar;PETROBRAS 48;;;;;;0;7862;83;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-CRT-30HP-RJS;Mar;PETROBRAS 48;;;;;;0;6319;725;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-CRT-32HP-RJS;Mar;PETROBRAS 48;;;;;;0;13842;719;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CARATINGA;8-CRT-36HPA-RJS;Mar;PETROBRAS 48;;;;;;0;10610;146;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-10DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-23D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-24D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-25D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-27D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-31D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-32D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-33D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-35D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-36D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-37D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-38D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-39D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-41DP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-42DP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-45D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-4D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-5D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-6D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;7-CH-8D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;8-CH-15D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;8-CH-20D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;8-CH-21D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CHERNE;8-CH-40D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CONGRO;3-RJS-468A-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CONGRO;3-RJS-469-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CONGRO;7-CG-5HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CONGRO;7-CG-8HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;1-RJS-414-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;1-RJS-54-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-1-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-10D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-12DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-3D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-4D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-6D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;CORVINA;7-CO-8D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;4-RJS-323-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;4-RJS-410-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;4-RJS-449-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-18D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-22D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-23D-RJS;Mar;PLATAFORMA DE ENCHOVA;856;13147;0;74;29311;0;968;83792;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-25D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;90;72661;0;5557;17114;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-26D-RJS;Mar;PLATAFORMA DE ENCHOVA;789;584;0;90;45466;0;1587;56223;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-31D-RJS;Mar;PLATAFORMA DE ENCHOVA;160;96521;0;40;5438;0;2844;72595;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-33DA-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-35D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-36D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-37D-RJS;Mar;PLATAFORMA DE ENCHOVA;131;91126;0;40;56287;0;1612;94442;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-39D-RJS;Mar;PLATAFORMA DE ENCHOVA;970;38591;0;76;46858;0;466;5714;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-40D-RJS;Mar;PLATAFORMA DE ENCHOVA;400;10043;0;67;76354;0;2102;70194;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-41D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-42D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-48H-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-51HP-RJS;Mar;PLATAFORMA DE ENCHOVA;2804;61061;0;20;13517;0;4100;5549;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-52H-RJS;Mar;PLATAFORMA DE ENCHOVA;2862;20661;0;143;1544;0;1568;73405;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA;7-EN-55-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA OESTE;3-BRSA-589-RJS;Mar;PLATAFORMA DE ENCHOVA;5924;5981;0;548;84712;0;248;55977;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA OESTE;4-RJS-253-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA OESTE;4-RJS-430D-RJ;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA OESTE;7-ENO-5D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ENCHOVA OESTE;7-ENO-6D-RJS;Mar;PLATAFORMA DE ENCHOVA;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;ESPADARTE;4-BRSA-480D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;64597;143;0;2892;737;0;99;135;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-15HP-RJS;Mar;FPSO FRADE;15631;5;0;989;46022;0;5107;77;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-21HP-RJS;Mar;FPSO FRADE;2983;6;0;309;1178;0;71477;11;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-25HP-RJS;Mar;FPSO FRADE;10325;31;0;452;8279;0;9961;9;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-26HP-RJS;Mar;FPSO FRADE;5893;6;0;985;50284;0;3583;62;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-2HP-RJS;Mar;FPSO FRADE;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-30H-RJS;Mar;FPSO FRADE;7938;18;0;423;75719;0;326;98;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-33HP-RJS;Mar;FPSO FRADE;14347;96;0;1697;4688;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-34HP-RJS;Mar;FPSO FRADE;3774;2;0;307;28043;0;26;58;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-40HP-RJS;Mar;FPSO FRADE;3793;9;0;14;46006;0;50;38;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-42H-RJS;Mar;FPSO FRADE;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;7-FR-8HP-RJS;Mar;FPSO FRADE;5184;7;0;182;71589;0;14212;8;;;;;
+2022;02/2022;Rio de Janeiro;Campos;FRADE;8-FR-28D-RJS;Mar;FPSO FRADE;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;FRADE;8-FR-29D-RJS;Mar;FPSO FRADE;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;FRADE;8-FR-35D-RJS;Mar;FPSO FRADE;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;FRADE;8-FR-5D-RJS;Mar;FPSO FRADE;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;7-GP-11D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;7-GP-12D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;7-GP-13D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;7-GP-22D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;8-GP-16D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;8-GP-18D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;8-GP-20D-RJS;Mar;PLATAFORMA DE GAROUPA;;;;;;0;3276;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;GAROUPA;8-GP-25D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;GAROUPINHA;3-RJS-213-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;LINGUADO;7-PM-38D-RJS;Mar;PLATAFORMA DE PAMPO-1;1;35208;0;0;9438;0;1;19079;;;;;
+2022;02/2022;Rio de Janeiro;Campos;LINGUADO;7-PM-39H-RJS;Mar;PLATAFORMA DE PAMPO-1;2;79972;0;0;4909;0;18;45381;;;;;
+2022;02/2022;Rio de Janeiro;Campos;LINGUADO;7-PM-41HP-RJS;Mar;PLATAFORMA DE PAMPO-1;15;56859;0;2;1598;0;290;46576;;;;;
+2022;02/2022;Rio de Janeiro;Campos;LINGUADO;7-PM-50HP-RJS;Mar;PLATAFORMA DE PAMPO-1;29;3283;0;0;65711;0;148;9484;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MALHADO;1-RJS-345-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MALHADO;3-MLH-1-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MALHADO;3-MLH-2D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MALHADO;3-RJS-346D-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MALHADO;3-RJS-354D-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;3-BRSA-767A-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;3-MA-18DP-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;3-RJS-394D-RJ;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;3-RJS-450D-RJ;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;4-MA-11-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;4-MA-12-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;4-RJS-338-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-10-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-14D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-16D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-17D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-22-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-27HA-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-31HPB-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-6D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-8D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;7-MA-9D-RJS;Mar;PETROBRAS 08;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;8-MA-19D-RJS;Mar;PETROBRAS 08;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARIMBÁ;8-MA-20DA-RJS;Mar;PETROBRAS 08;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;3-MRL-3-RJS;Mar;PETROBRAS 20;622;86446;0;47;52626;0;168;69287;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;6-BRSA-770D-RJS;Mar;PETROBRAS 20;1633;96706;0;331;10993;0;13;24026;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MLS-10HPA-RJS;Mar;PETROBRAS 40;1387;66873;0;195;62267;0;7194;802;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MLS-167HPA-RJS;Mar;PETROBRAS 40;1604;48738;0;605;90372;0;4650;15749;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MLS-169HP-RJS;Mar;PETROBRAS 40;681;67129;0;165;1806;0;2957;32547;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MLS-222HP-RJS;Mar;PETROBRAS 40;2006;79335;0;271;12587;0;3440;77656;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MLS-51HP-RJS;Mar;PETROBRAS 40;918;39712;0;175;28093;0;3099;18;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-100H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-102H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-103-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-111D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-141HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-142HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-145H-RJS;Mar;PETROBRAS 18;5267;9875;0;511;84053;0;13196;43015;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-147HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-150HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-152HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-156HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-159HP-RJS;Mar;PETROBRAS 18;6192;50312;0;638;836;0;49548;74344;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-167HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-169HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-171HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-173HP-RJS;Mar;PETROBRAS 18;6845;11202;0;732;89684;0;9147;41554;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-177HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-183HP-RJS;Mar;PETROBRAS 19;7214;24759;0;699;68153;0;17710;80659;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-185HPA-RJS;Mar;PETROBRAS 20;194;29005;0;22;86823;0;356;90485;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-187HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-188HA-RJS;Mar;PETROBRAS 19;4770;39826;0;495;87976;0;17352;88773;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-196HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-198HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-205HP-RJS;Mar;PETROBRAS 18;;;;;;0;35697;46928;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-206HB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-207H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-208HB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-210HPA-RJS;Mar;PETROBRAS 18;11409;73852;0;1081;31686;0;23795;26203;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-212HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-213HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-215HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-218HP-RJS;Mar;PETROBRAS 19;13122;11219;0;1512;55525;0;24165;31542;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-222HPA-RJS;Mar;PETROBRAS 18;13976;87379;0;1236;2642;0;18100;36044;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-223HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-224H-RJS;Mar;PETROBRAS 19;9532;89279;0;1010;77579;0;20343;1019;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-226HPA-RJS;Mar;PETROBRAS 20;624;56558;0;46;72227;0;428;93859;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-227D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-42-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-43D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-53D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-54-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-62D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-84HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;7-MRL-99D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MLS-171HPA-RJS;Mar;PETROBRAS 40;;;;;;0;2633;9576;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MLS-17HP-RJS;Mar;PETROBRAS 40;;;;;;0;3612;6328;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MLS-25HP-RJS;Mar;PETROBRAS 40;;;;;;0;5275;2;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MLS-6HP-RJS;Mar;PETROBRAS 40;;;;;;0;5153;996;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-191DP-RJS;Mar;PETROBRAS 19;;;;;;0;77706;96228;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-30D-RJS;Mar;PETROBRAS 18;;;;;;0;28348;65608;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-31D-RJS;Mar;PETROBRAS 18;;;;;;0;26425;98341;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-39-RJS;Mar;PETROBRAS 19;;;;;;0;61342;28855;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-41D-RJS;Mar;PETROBRAS 19;;;;;;0;75809;24089;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;8-MRL-52D-RJS;Mar;PETROBRAS 19;;;;;;0;82209;59483;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;9-MRL-201-RJS;Mar;PETROBRAS 18;11070;674;0;924;48541;0;16078;44998;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM;9-MRL-231DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;3-BRSA-1017D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;3-BRSA-363D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;6-BRSA-817-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-10HP-RJS;Mar;PETROBRAS 53;72;56;0;8;2302;0;111;293;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-24HPC-RJS;Mar;PETROBRAS 53;;;;;;0;33511;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-28HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-30HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-32HPB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-34HPB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-40HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-42HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-44HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-49H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-50H-RJS;Mar;FPSO CIDADE DE NITEROI;;;;;;4383;119;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-52HPA-RJS;Mar;FPSO CIDADE DE NITEROI;16920;68;0;2037;91871;0;16;938;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-56HP-RJS;Mar;FPSO CIDADE DE NITEROI;25708;259;0;4526;49852;0;1935;3;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-60D-RJS;Mar;FPSO CIDADE DE NITEROI;58668;669;0;8210;67967;0;6230;3;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-72-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-73D-RJS;Mar;PETROBRAS 53;41380;336;0;4792;1051;0;7051;705;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-74DA-RJS;Mar;PETROBRAS 53;13067;126;0;1357;82615;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-77D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-78D-RJS;Mar;FPSO CIDADE DE NITEROI;1428;194;0;122;84069;0;3316;636;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-81HP-RJS;Mar;PETROBRAS 53;38338;934;0;3314;23418;0;115;364;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-82HA-RJS;Mar;PETROBRAS 53;46031;845;0;4783;88674;0;1423;67;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;7-MLL-86HPA-RJS;Mar;PETROBRAS 53;43408;163;0;6941;75329;0;43;451;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;8-MLL-16HPF-RJS;Mar;PETROBRAS 53;;;;;;0;34165;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;8-MLL-36H-RJS;Mar;PETROBRAS 53;;;;;;0;24519;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;8-MLL-38HP-RJS;Mar;PETROBRAS 53;;;;;;0;76649;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;8-MLL-48HPB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;8-MLL-68HP-RJS;Mar;PETROBRAS 53;;;;;;0;84171;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;9-MLL-12-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM LESTE;9-MLL-19D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;3-BRSA-653D-RJS;Mar;PETROBRAS 40;22428;589;0;1948;31747;0;252;161;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;3-MRL-3-RJS;Mar;PETROBRAS 20;11;67554;0;0;89087;0;3;16213;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;4-RJS-442-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;6-BRSA-517-RJS;Mar;PETROBRAS 51;367;685;0;25;74144;0;57;924;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-10HPA-RJS;Mar;PETROBRAS 40;9660;64927;0;1361;8835;0;50083;12598;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-111HP-RJS;Mar;PETROBRAS 51;63;3;0;8;61526;0;627;31;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-113HA-RJS;Mar;PETROBRAS 40;7711;15;0;997;17771;0;31216;143;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-115HP-RJS;Mar;PETROBRAS 51;836;593;0;113;2;0;23611;411;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-117HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-131H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-139HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-153H-RJS;Mar;PETROBRAS 56;4734;282;0;270;38099;0;34791;101;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-157H-RJS;Mar;PETROBRAS 56;12807;119;0;2521;53304;0;56118;455;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-159HP-RJS;Mar;PETROBRAS 56;4849;458;0;481;90627;0;41110;68;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-163HP-RJS;Mar;PETROBRAS 56;7283;7;0;818;9149;0;21784;556;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-167HPA-RJS;Mar;PETROBRAS 40;11170;9362;0;4218;17138;0;32373;38951;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-169HP-RJS;Mar;PETROBRAS 40;4745;64771;0;1149;95223;0;20588;25953;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-175D-RJS;Mar;PETROBRAS 40;28481;985;0;2403;73924;0;2023;516;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-179HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-187HP-RJS;Mar;PETROBRAS 56;6883;72;0;939;85805;0;58128;146;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-189HP-RJS;Mar;PETROBRAS 56;5484;872;0;421;36177;0;55134;13;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-195H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-200HP-RJS;Mar;PETROBRAS 40;46736;219;0;11344;96796;0;19216;71;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-208HA-RJS;Mar;PETROBRAS 51;2225;355;0;348;95975;0;28848;454;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-209HA-RJS;Mar;PETROBRAS 51;0;906;0;0;8466;0;7;982;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-211H-RJS;Mar;PETROBRAS 51;352;9;0;33;5393;0;2223;913;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-214HPA-RJS;Mar;PETROBRAS 56;5018;148;0;318;57833;0;15655;215;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-217HPA-RJS;Mar;PETROBRAS 51;1356;302;0;211;42071;0;2174;415;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-21HP-RJS;Mar;PETROBRAS 40;8491;417;0;1461;4806;0;47479;47;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-220HA-RJS;Mar;PETROBRAS 56;19552;592;0;2295;11756;0;10133;416;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-222HP-RJS;Mar;PETROBRAS 40;13970;86065;0;1887;52041;0;23953;94144;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-223HA-RJS;Mar;PETROBRAS 40;5286;902;0;689;46992;0;20868;98;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-225D-RJS;Mar;PETROBRAS 40;4176;133;0;875;75586;0;16200;935;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-230D-RJS;Mar;PETROBRAS 51;1298;356;0;203;69948;0;121;191;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-30HP-RJS;Mar;PETROBRAS 40;12871;113;0;1475;33116;0;23008;37;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-31H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-32H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-42H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-43HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-45HP-RJS;Mar;PETROBRAS 40;19157;221;0;3229;88415;0;26376;223;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-51HP-RJS;Mar;PETROBRAS 40;6393;68188;0;1220;26866;0;21575;82;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-59HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-63HPA-RJS;Mar;PETROBRAS 51;738;813;0;250;83928;0;9111;687;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-93HP-RJS;Mar;PETROBRAS 51;1071;675;0;132;70383;0;9871;767;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-95H-RJS;Mar;PETROBRAS 51;150;306;0;23;23856;0;963;836;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MLS-97HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-145H-RJS;Mar;PETROBRAS 18;98;73125;0;9;59433;0;247;36585;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-159HP-RJS;Mar;PETROBRAS 18;116;7788;0;11;97486;0;928;78656;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-173HP-RJS;Mar;PETROBRAS 18;128;31098;0;13;73798;0;171;46746;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-183HP-RJS;Mar;PETROBRAS 19;135;23041;0;13;11538;0;331;98741;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-185HPA-RJS;Mar;PETROBRAS 20;3;64195;0;0;42866;0;6;69015;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-188HA-RJS;Mar;PETROBRAS 19;89;42074;0;9;2951;0;325;27827;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-205HP-RJS;Mar;PETROBRAS 18;;;;;;0;669;14572;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-210HPA-RJS;Mar;PETROBRAS 18;213;87448;0;20;26909;0;446;3997;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-218HP-RJS;Mar;PETROBRAS 19;245;97281;0;28;35261;0;452;97658;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-222HPA-RJS;Mar;PETROBRAS 18;261;99521;0;23;17353;0;339;28956;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-224H-RJS;Mar;PETROBRAS 19;178;69321;0;18;94682;0;381;32781;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;7-MRL-226HPA-RJS;Mar;PETROBRAS 20;11;70742;0;0;8758;0;8;4041;;;;;
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-119H-RJS;Mar;PETROBRAS 51;;;;;;0;14627;783;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-121HPA-RJS;Mar;PETROBRAS 51;;;;;;0;22006;616;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-123HB-RJS;Mar;PETROBRAS 51;;;;;;0;22674;265;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-125HP-RJS;Mar;PETROBRAS 51;;;;;;0;17207;369;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-127HP-RJS;Mar;PETROBRAS 51;;;;;;0;16991;68;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-143H-RJS;Mar;PETROBRAS 51;;;;;;0;3430;629;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-147HP-RJS;Mar;PETROBRAS 51;;;;;;0;1183;584;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-161HP-RJS;Mar;PETROBRAS 56;;;;;;0;60430;426;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-171HPA-RJS;Mar;PETROBRAS 40;;;;;;0;18337;424;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-173H-RJS;Mar;PETROBRAS 56;;;;;;0;30543;45;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-17HP-RJS;Mar;PETROBRAS 40;;;;;;0;25150;3672;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-183HP-RJS;Mar;PETROBRAS 56;;;;;;0;52042;326;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-185HP-RJS;Mar;PETROBRAS 56;;;;;;0;33114;477;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-191HPA-RJS;Mar;PETROBRAS 56;;;;;;0;25675;427;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-193HPA-RJS;Mar;PETROBRAS 56;;;;;;0;52095;871;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-19HP-RJS;Mar;PETROBRAS 40;;;;;;0;34558;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-229D-RJS;Mar;PETROBRAS 40;;;;;;0;70000;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-239H-RJS;Mar;PETROBRAS 56;;;;;;0;79609;428;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-25HP-RJS;Mar;PETROBRAS 40;;;;;;0;36724;8;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-27HP-RJS;Mar;PETROBRAS 40;;;;;;0;28000;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-41HP-RJS;Mar;PETROBRAS 40;;;;;;0;42000;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-47HA-RJS;Mar;PETROBRAS 40;;;;;;0;56000;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-65HP-RJS;Mar;PETROBRAS 51;;;;;;0;16390;74;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-67HA-RJS;Mar;PETROBRAS 40;;;;;;0;28485;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-6HP-RJS;Mar;PETROBRAS 40;;;;;;0;35881;4;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MLS-77H-RJS;Mar;PETROBRAS 40;;;;;;0;28000;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-191DP-RJS;Mar;PETROBRAS 19;;;;;;0;1456;60972;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-30D-RJS;Mar;PETROBRAS 18;;;;;;0;531;39292;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-31D-RJS;Mar;PETROBRAS 18;;;;;;0;495;35259;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-39-RJS;Mar;PETROBRAS 19;;;;;;0;1149;85545;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-41D-RJS;Mar;PETROBRAS 19;;;;;;0;1421;3711;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;8-MRL-52D-RJS;Mar;PETROBRAS 19;;;;;;0;1541;1117;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;MARLIM SUL;9-MRL-201-RJS;Mar;PETROBRAS 18;207;50626;0;17;32932;0;301;38902;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;1-RJS-19-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;3-NA-3D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-10D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-15D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-16D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-30D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-31D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-34D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-35D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-38D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-40D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-42D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-43D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-44D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-45D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-46D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-47D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-48D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-49D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-50D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-51D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-52D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-53D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;NAMORADO;7-NA-8D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;3-PM-1A-RJS;Mar;PLATAFORMA DE PAMPO-1;2097;9527;0;160;34513;0;14756;67962;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;3-RJS-159-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;3-RJS-169D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;4-BRSA-793-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;4-RJS-493-RJS;Mar;PLATAFORMA DE PAMPO-1;3071;87653;0;251;723;0;5716;90839;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-11D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-17D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-18D-RJS;Mar;PLATAFORMA DE PAMPO-1;2535;85634;0;281;88838;0;31119;8729;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-19D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-21D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-24D-RJS;Mar;PLATAFORMA DE PAMPO-1;1947;8371;0;102;69729;0;13872;79116;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-26D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-28D-RJS;Mar;PLATAFORMA DE PAMPO-1;1134;50737;0;63;30957;0;13531;14968;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-31DA-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-32D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-33D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-35DP-RJS;Mar;PLATAFORMA DE PAMPO-1;795;98787;0;44;66713;0;3545;74317;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-37D-RJS;Mar;PLATAFORMA DE PAMPO-1;2051;61862;0;180;29193;0;20165;73906;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-38D-RJS;Mar;PLATAFORMA DE PAMPO-1;145;61417;0;10;16476;0;128;24318;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-39H-RJS;Mar;PLATAFORMA DE PAMPO-1;301;51853;0;5;2869;0;1987;39608;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-40DP-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-41HP-RJS;Mar;PLATAFORMA DE PAMPO-1;1676;66991;0;217;1127;0;31281;89956;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-42DP-RJS;Mar;PLATAFORMA DE PAMPO-1;2373;75722;0;122;24767;0;23332;32791;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-43HA-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-44HP-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-45DP-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-49DB-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-50HP-RJS;Mar;PLATAFORMA DE PAMPO-1;3126;71002;0;70;76874;0;16041;9509;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-52DP-RJS;Mar;PLATAFORMA DE PAMPO-1;731;49499;0;85;59583;0;33;21174;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-55DP-RJS;Mar;PLATAFORMA DE PAMPO-1;3954;25135;0;263;77287;0;8438;79104;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-7D-RJS;Mar;PLATAFORMA DE PAMPO-1;525;86564;0;49;9944;0;8322;2877;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-8D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAMPO;7-PM-9D-RJS;Mar;PLATAFORMA DE PAMPO-1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-12H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-16HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-17H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-18HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-22HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-37HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-50HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PAPA-TERRA;7-PPT-51HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARATI;3-RJS-180A-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-10D-RJS;Mar;PLATAFORMA DE PARGO-1A;1000;51663;0;46;84184;0;9863;59295;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-12D-RJS;Mar;PLATAFORMA DE PARGO-1A;2876;24658;0;155;14955;0;5000;2616;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-14D-RJS;Mar;PLATAFORMA DE PARGO-1A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-18D-RJS;Mar;PLATAFORMA DE PARGO-1A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-19D-RJS;Mar;PLATAFORMA DE PARGO-1A;1843;36406;0;98;79376;0;14462;9232;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-20D-RJS;Mar;PLATAFORMA DE PARGO-1A;1405;66073;0;81;2248;0;1802;42763;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-21D-RJS;Mar;PLATAFORMA DE PARGO-1A;341;5459;0;16;55709;0;2196;19475;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-22D-RJS;Mar;PLATAFORMA DE PARGO-1A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-23D-RJS;Mar;PLATAFORMA DE PARGO-1A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-24D-RJS;Mar;PLATAFORMA DE PARGO-1A;1666;42778;0;87;4819;0;21734;27339;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-25D-RJS;Mar;PLATAFORMA DE PARGO-1A;77;48226;0;5;36392;0;1644;34724;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-4-RJS;Mar;PLATAFORMA DE PARGO-1A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-7D-RJS;Mar;PLATAFORMA DE PARGO-1A;2999;199;0;147;76165;0;3856;39525;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-8D-RJS;Mar;PLATAFORMA DE PARGO-1A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PARGO;7-PG-9D-RJS;Mar;PLATAFORMA DE PARGO-1A;1658;78491;0;86;48865;0;10867;85278;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-10H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-11H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-12HA-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-17H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-19HA-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-23HP-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-25H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-26H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-27H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-29H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-2HB-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-31H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-33H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-34HP-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-3H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-41HA-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-42H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-43H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-44H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-45H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-46H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-47H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-49H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-51H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-52HP-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-54H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-55H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-56H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-57H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-5H-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-60H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-62H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-63H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-64HP-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-66HP-RJS;Mar;Peregrino B;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-67H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;7-PRG-69H-RJS;Mar;Peregrino A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-13D-RJS;Mar;Peregrino B;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-24H-RJS;Mar;Peregrino B;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-30DA-RJS;Mar;Peregrino A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-36H-RJS;Mar;Peregrino A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-38H-RJS;Mar;Peregrino B;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-39D-RJS;Mar;Peregrino A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;PEREGRINO;8-PRG-61D-RJS;Mar;Peregrino A;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-11HP-RJS;Mar;Polvo A;2531;58336;0;65;35174;0;29255;18858;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-12H-RJS;Mar;Polvo A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-14H-RJS;Mar;Polvo A;1589;88299;0;48;8929;0;12309;71698;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-15H-RJS;Mar;Polvo A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-16H-RJS;Mar;Polvo A;2515;87375;0;79;14535;0;2178;73411;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-1H-RJS;Mar;Polvo A;1080;83841;0;39;2787;0;19606;30946;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-24HP-RJS;Mar;Polvo A;8130;5159;0;141;16521;0;36496;55933;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-2HPB-RJS;Mar;Polvo A;3726;79255;0;90;9536;0;30900;19508;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-32HP-RJS;Mar;Polvo A;2136;61638;0;88;5608;0;27119;46219;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-36HP-RJS;Mar;Polvo A;3221;42248;0;27;3999;0;3657;70705;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-38HP-RJS;Mar;Polvo A;1596;42574;0;21;64066;0;60;10867;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-4HP-RJS;Mar;Polvo A;776;34438;0;11;66497;0;14213;43167;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;7-POL-7HP-RJS;Mar;Polvo A;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;9-POL-45D-RJS;Mar;Polvo A;5155;90911;0;364;46217;0;30025;353;;;;;
+2022;02/2022;Rio de Janeiro;Campos;POLVO;9-POL-46D-RJS;Mar;Polvo A;254;39062;0;29;13758;0;5273;48075;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;3-BRSA-1314D-RJS;Mar;PETROBRAS 62;4897;886;0;443;5826;0;34631;135;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;4-BRSA-1220DA-RJS;Mar;PETROBRAS 62;6326;896;0;397;38758;0;677;435;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;6-BRSA-963DA-RJS;Mar;PETROBRAS 52;13976;761;0;2338;14835;0;907;968;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-100HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-102HP-RJS;Mar;PETROBRAS 55;1465;69;0;349;76144;0;2570;62;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-107HPA-RJS;Mar;PETROBRAS 55;30681;872;0;4919;55197;0;43922;602;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-111HP-RJS;Mar;PETROBRAS 62;19132;263;0;42544;59222;0;108;199;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-112HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-115-RJS;Mar;PETROBRAS 52;9175;603;0;605;51006;0;22684;128;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-121HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-123HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-124HA-RJS;Mar;PETROBRAS 55;7105;778;0;486;84095;0;3535;372;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-129H-RJS;Mar;PETROBRAS 62;14320;671;0;4075;46457;0;21619;327;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-131HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-133HP-RJS;Mar;PETROBRAS 55;11113;937;0;960;2801;0;12992;279;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-134DB-RJS;Mar;PETROBRAS 52;7035;408;0;993;24976;0;7591;216;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-135H-RJS;Mar;PETROBRAS 54;410;976;0;46;8049;0;1119;77;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-14-RJS;Mar;PETROBRAS 52;31735;593;0;4337;92907;0;63;598;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-141HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-144HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-147D-RJS;Mar;PETROBRAS 52;15025;181;0;1835;5903;0;27062;163;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-148-RJS;Mar;PETROBRAS 52;;;;;;0;22171;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-149HA-RJS;Mar;PETROBRAS 62;5938;241;0;617;6508;0;8718;144;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-151HP-RJS;Mar;PETROBRAS 62;630;757;0;78;3106;0;79;71;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-153H-RJS;Mar;PETROBRAS 62;10433;774;0;929;16721;0;360;461;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-154D-RJS;Mar;PETROBRAS 62;6191;619;0;14213;75126;0;48;121;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-155D-RJS;Mar;PETROBRAS 62;9986;953;0;927;81775;0;54170;208;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-156D-RJS;Mar;PETROBRAS 62;3900;773;0;728;2672;0;3969;179;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-158HP-RJS;Mar;PETROBRAS 55;11575;209;0;1147;43569;0;17099;845;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-160D-RJS;Mar;PETROBRAS 55;6233;262;0;399;76633;0;10208;502;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-162HP-RJS;Mar;PETROBRAS 55;5274;37;0;668;82985;0;5;129;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-163D-RJS;Mar;PETROBRAS 52;;;;;;0;39832;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-164D-RJS;Mar;PETROBRAS 52;15492;921;0;1859;74137;0;3423;955;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-167D-RJS;Mar;PETROBRAS 55;34617;751;0;3050;78692;0;1395;716;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-168D-RJS;Mar;PETROBRAS 55;15314;422;0;2028;78563;0;72;985;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-16D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-173H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-19HA-RJS;Mar;PETROBRAS 52;9075;251;0;1025;26451;0;6115;179;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-25D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-26H-RJS;Mar;PETROBRAS 52;18762;36;0;1880;71479;0;4884;624;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-34D-RJS;Mar;PETROBRAS 52;8948;416;0;1421;34896;0;5965;611;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-40-RJS;Mar;PETROBRAS 52;18706;807;0;1139;54432;0;11960;94;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-41D-RJS;Mar;PETROBRAS 52;23931;444;0;2800;82356;0;36047;113;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-44HP-RJS;Mar;PETROBRAS 52;;;;;;0;43582;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-46HP-RJS;Mar;PETROBRAS 54;28889;35;0;1538;5738;0;30578;364;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-50HPA-RJS;Mar;PETROBRAS 54;5072;689;0;367;18208;0;11461;917;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-60HP-RJS;Mar;PETROBRAS 54;16885;906;0;1254;48798;0;6029;735;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-62HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-63HA-RJS;Mar;PETROBRAS 54;973;335;0;130;39233;0;4845;457;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-66D-RJS;Mar;PETROBRAS 52;30310;148;0;3761;34062;0;16058;361;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-72HPB-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-74HP-RJS;Mar;PETROBRAS 54;5424;918;0;420;7571;0;8147;347;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-76H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-77H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-8-RJS;Mar;PETROBRAS 52;35671;523;0;4201;86992;0;19123;615;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-86HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-92D-RJS;Mar;PETROBRAS 52;19808;567;0;2299;7174;0;26320;759;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;7-RO-9D-RJS;Mar;PETROBRAS 52;620;427;0;96;4662;0;3094;707;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-117HP-RJS;Mar;PETROBRAS 62;;;;;;0;75300;35;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-119HP-RJS;Mar;PETROBRAS 55;;;;;;0;45916;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-128HP-RJS;Mar;PETROBRAS 62;;;;;;0;2644;765;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-137HP-RJS;Mar;PETROBRAS 62;;;;;;0;95143;383;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-139HP-RJS;Mar;PETROBRAS 62;;;;;;0;72537;287;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-146HP-RJS;Mar;PETROBRAS 62;;;;;;0;9671;53;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-152H-RJS;Mar;PETROBRAS 55;;;;;;0;85956;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-170HP-RJS;Mar;PETROBRAS 52;;;;;;0;27761;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-171D-RJS;Mar;PETROBRAS 52;;;;;;0;168289;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-27HP-RJS;Mar;PETROBRAS 52;;;;;;0;79082;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-29HP-RJS;Mar;PETROBRAS 52;;;;;;0;16597;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-32-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-37-RJS;Mar;PETROBRAS 52;;;;;;0;12437;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-52HPA-RJS;Mar;PETROBRAS 54;;;;;;0;19440;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-54HP-RJS;Mar;PETROBRAS 54;;;;;;0;101161;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-58HP-RJS;Mar;PETROBRAS 54;3880;646;0;447;57213;0;8461;7;;;;;
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-65D-RJS;Mar;PETROBRAS 52;;;;;;0;76985;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-68HP-RJS;Mar;PETROBRAS 54;;;;;;0;86033;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-70HP-RJS;Mar;PETROBRAS 54;;;;;;0;25712;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-81HP-RJS;Mar;PETROBRAS 54;;;;;;0;69161;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-91HP-RJS;Mar;PETROBRAS 55;;;;;;0;13378;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-94HP-RJS;Mar;PETROBRAS 55;;;;;;0;124872;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;8-RO-96HP-RJS;Mar;PETROBRAS 55;;;;;;0;23830;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;RONCADOR;9-RO-82B-RJS;Mar;PETROBRAS 62;12590;17;0;1001;14372;0;2660;721;;;;;
+2022;02/2022;Rio de Janeiro;Campos;SALEMA;7-SA-5HP-RJS;Mar;FPSO Fluminense;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;SALEMA;7-SA-7HP-RJS;Mar;FPSO Fluminense;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;SALEMA;7-SA-8H-RJS;Mar;FPSO Fluminense;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;SALEMA;8-SA-1DB-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;SALEMA;8-SA-2D-RJS;Mar;FPSO Fluminense;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TMT-1D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;25306;86142;0;1569;37168;0;2596;3433;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-10D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;30414;82686;0;2040;9831;0;11488;666;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-11D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;41842;719;0;3316;72858;0;89;158;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-12D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;38790;329;0;3378;46752;0;5969;736;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-15D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;13758;135;0;1375;2446;0;24160;24;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-16DP-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;11611;944;0;1069;25012;0;35251;481;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;7-TVD-5D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;59486;76;0;4117;2238;0;10;132;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;8-TVD-6D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;27763;906;0;1743;44316;0;6929;267;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;9-BRSA-1085-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;69198;219;0;4916;6646;0;310;714;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;9-BRSA-1099-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;9222;99514;0;838;5392;0;45814;16888;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE;9-TVD-1D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE SUDOESTE;7-TMT-1D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;5483;82017;0;340;7171;0;562;60925;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE SUDOESTE;7-TVD-10D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;6590;6807;0;442;26657;0;2489;51357;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE SUDOESTE;8-TVD-6D-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;6016;24462;0;377;79175;0;1501;5236;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TARTARUGA VERDE SUDOESTE;9-BRSA-1099-RJS;Mar;FPSO Cidade de Campos dos Goytacazes;1998;55849;0;181;70536;0;9927;61074;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;7-TBMT-10H-RJS;Mar;FPSO_OSX3;14258;29295;0;600;36875;0;99;88624;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;7-TBMT-2HP-RJS;Mar;FPSO_OSX3;6138;9765;0;135;8511;0;385;70724;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;7-TBMT-4HP-RJS;Mar;FPSO_OSX3;9721;2317;0;109;77455;0;54;16628;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;7-TBMT-6HP-RJS;Mar;FPSO_OSX3;8450;49651;0;268;34583;0;135;65016;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;7-TBMT-8H-RJS;Mar;FPSO_OSX3;6135;74653;0;147;55792;0;681;74961;;;;;
+2022;02/2022;Rio de Janeiro;Campos;TUBARÃO MARTELO;9-OGX-44HP-RJS;Mar;FPSO_OSX3;7017;50878;0;336;5631;0;24515;58218;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-14D-RJS;Mar;PLATAFORMA DE VERMELHO-III;1647;73682;0;45;35308;0;20486;79065;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-19D-RJS;Mar;PLATAFORMA DE VERMELHO-III;743;6333;0;32;8964;0;16091;67988;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-34D-RJS;Mar;PLATAFORMA DE VERMELHO-III;1783;87271;0;64;84682;0;14433;19691;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-39D-RJS;Mar;PLATAFORMA DE VERMELHO-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-48D-RJS;Mar;PLATAFORMA DE VERMELHO-III;;;;;;0;0;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-60D-RJS;Mar;PLATAFORMA DE VERMELHO-III;866;3769;0;45;67269;0;25485;87336;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-62D-RJS;Mar;PLATAFORMA DE VERMELHO-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-71HP-RJS;Mar;PLATAFORMA DE VERMELHO-III;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VERMELHO;7-VM-78DP-RJS;Mar;PLATAFORMA DE VERMELHO-III;645;55562;0;30;4417;0;11092;4753;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;1-BRSA-319-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;1-RJS-90-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;3-BRSA-514H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;3-RJS-174D-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;3-RJS-290D-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;3-RJS-301-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VIOLA;7-VL-2D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VOADOR;4-RJS-377-RJ;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VOADOR;6-BRSA-770D-RJS;Mar;PETROBRAS 20;849;27135;0;172;9782;0;6;88176;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VOADOR;7-VD-12H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Campos;VOADOR;7-VD-17HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_MERO;3-BRSA-1322-RJS;Mar;FPSO PIONEIRO DE LIBRA;7699;37304;0;3280;49659;0;31;69686;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_MERO;9-MRO-5-RJS;Mar;FPSO PIONEIRO DE LIBRA;;;;;;2964;69588;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;1-BRSA-1146-RJS;Mar;Petrobras 70;369;78382;0;84;32813;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;3-BRSA-1172-RJS;Mar;Petrobras 70;403;24088;0;91;80187;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;7-ATP-6-RJS;Mar;Petrobras 70;1936;93648;0;449;93211;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;8-ATP-4D-RJS;Mar;Petrobras 70;;;;;;271;98729;0;0;76;10172;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;9-ATP-1-RJS;Mar;Petrobras 70;1700;13954;0;389;4954;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_NORTE_ATAPU;9-ATP-3-RJS;Mar;Petrobras 70;;;;;;607;72225;0;0;170;4027;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;3-BRSA-496-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;250;78364;0;80;38369;0;94;81474;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;3-BRSA-755A-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;13;91841;0;0;3;41365;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;3-BRSA-854-RJS;Mar;Petrobras 69;0;725;0;0;15;0;0;1;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;3-BRSA-883-RJS;Mar;Petrobras 66 (P-66);362;32048;0;190;72486;0;16;92036;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;4-BRSA-1047-RJS;Mar;Petrobras 69;516;27696;0;107;31261;0;18;62324;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-10-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;838;62942;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-100-RJS;Mar;Petrobras 66 (P-66);449;45341;0;119;13995;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-102D-RJS;Mar;Petrobras 66 (P-66);52;62941;0;23;57283;0;5;10999;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-105-RJS;Mar;Petrobras 66 (P-66);567;5064;0;116;38005;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-11-RJS;Mar;FPSO CIDADE DE PARATY;53;79141;0;19;49844;0;232;1061;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-110D-RJS;Mar;Petrobras 67 (P-67);534;46544;0;161;72934;0;0;16024;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-113D-RJS;Mar;Petrobras 67 (P-67);562;74992;0;113;2867;0;0;5633;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-115-RJS;Mar;Petrobras 67 (P-67);589;9686;0;132;4749;0;0;59063;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-119D-RJS;Mar;FPSO CIDADE DE PARATY;505;9404;0;217;92015;0;0;78502;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-15D-RJS;Mar;FPSO CIDADE DE PARATY;687;2;0;178;48599;0;17;51407;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-17D-RJS;Mar;FPSO CIDADE DE PARATY;0;455;0;0;123;0;0;143;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-22D-RJS;Mar;FPSO CIDADE DE PARATY;505;51906;0;118;48156;0;3;60926;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-28D-RJS;Mar;FPSO CIDADE DE PARATY;558;92651;0;119;84908;0;21;75155;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-34D-RJS;Mar;Petrobras 67 (P-67);428;99452;0;93;525;0;58;56295;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-3D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;40;2127;0;9;73508;0;81;32289;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-46-RJS;Mar;FPSO CIDADE DE SAQUAREMA;288;58929;0;156;6915;0;18;40858;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-48D-RJS;Mar;FPSO CIDADE DE MARICÁ;0;835;0;0;197;0;0;2;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-58-RJS;Mar;FPSO CIDADE DE MARICÁ;105;62689;0;32;76664;0;150;19204;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-59-RJS;Mar;FPSO CIDADE DE SAQUAREMA;485;28127;0;141;63519;0;64;70518;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-60D-RJS;Mar;Petrobras 66 (P-66);0;24;0;0;125;0;0;15;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-61-RJS;Mar;FPSO CIDADE DE MARICÁ;558;5909;0;119;56957;0;1;68065;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-66-RJS;Mar;FPSO CIDADE DE MARICÁ;569;64969;0;119;21347;0;6;91956;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-67D-RJS;Mar;Petrobras 67 (P-67);220;28287;0;142;7466;0;0;22021;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-68-RJS;Mar;Petrobras 67 (P-67);532;43398;0;112;97615;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-69-RJS;Mar;Petrobras 66 (P-66);492;45406;0;99;13151;0;41;6699;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-70-RJS;Mar;Petrobras 69;234;46711;0;160;64324;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-79D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;122;75481;0;28;68063;0;162;72555;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-80DB-RJS;Mar;FPSO CIDADE DE SAQUAREMA;611;59333;0;148;19863;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-84D-RJS;Mar;FPSO CIDADE DE MARICÁ;556;38166;0;120;221;0;10;77821;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-85-RJS;Mar;FPSO CIDADE DE SAQUAREMA;144;55179;0;62;5371;0;70;19045;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-90D-RJS;Mar;Petrobras 66 (P-66);454;4563;0;106;60916;0;19;9278;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-91-RJS;Mar;FPSO CIDADE DE SAQUAREMA;559;90107;0;124;34317;0;0;55959;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-95D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;349;17614;0;72;35911;0;15;69452;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-LL-97-RJS;Mar;Petrobras 66 (P-66);328;12656;0;61;97199;0;35;98087;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-SLL-2-RJS;Mar;Petrobras 69;621;15883;0;130;56007;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-SLL-3-RJS;Mar;Petrobras 69;182;27129;0;92;24042;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-SLL-5-RJS;Mar;Petrobras 69;578;93892;0;188;85908;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;7-SLL-8D-RJS;Mar;Petrobras 69;181;91255;0;89;5699;0;0;51827;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-101D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;452;75812;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-104D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;744;25271;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-107-RJS;Mar;Petrobras 67 (P-67);;;;;;0;731;29724;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-108D-RJS;Mar;Petrobras 67 (P-67);;;;;;0;478;81262;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-109-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;465;1758;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-112-RJS;Mar;Petrobras 66 (P-66);;;;;;0;637;72462;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-14D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;689;62199;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-18-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;1430;46754;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-26D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;273;58583;0;0;73;87845;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-35D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;303;29122;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-42D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;324;8504;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-49D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;704;27045;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-4D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;138;0;0;0;48;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-5-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;707;17109;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-50-RJS;Mar;Petrobras 66 (P-66);;;;;;0;468;44002;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-52D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;250;78033;0;0;86;97632;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-57D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;644;70083;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-71D-RJS;Mar;Petrobras 66 (P-66);;;;;;386;45137;0;0;145;18942;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-74-RJS;Mar;Petrobras 66 (P-66);;;;;;156;66746;0;0;58;85963;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-76D-RJS;Mar;Petrobras 67 (P-67);;;;;;421;7904;0;0;58;5295;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-77D-RJS;Mar;Petrobras 69;;;;;;87;68182;0;0;14;78299;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-78D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;245;50783;0;0;81;83693;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-81D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;397;53036;0;108;66003;0;75;67146;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-82D-RJS;Mar;Petrobras 67 (P-67);;;;;;353;89277;0;0;49;19061;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-86D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;740;97148;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-87D-RJS;Mar;FPSO CIDADE DE MARICÁ;582;57465;0;128;43594;0;45;2062;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-88D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;1303;33795;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-89-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;183;28002;0;0;61;9574;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-9-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;24;83664;0;0;21;70086;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-92-RJS;Mar;Petrobras 66 (P-66);;;;;;0;587;92979;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-93D-RJS;Mar;Petrobras 66 (P-66);;;;;;0;477;58211;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-94D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;747;1482;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-LL-98D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;835;22488;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-SLL-1D-RJS;Mar;Petrobras 69;;;;;;369;33602;0;0;62;26954;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-SLL-6-RJS;Mar;Petrobras 69;;;;;;0;448;9719;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;8-SLL-7-RJS;Mar;Petrobras 69;;;;;;0;448;972;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;9-BRSA-908D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;119;83287;0;36;87762;0;43;4996;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;9-LL-12D-RJS;Mar;FPSO CIDADE DE MARICÁ;574;35261;0;152;70383;0;8;48869;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;9-LL-19-RJS;Mar;Petrobras 67 (P-67);490;161;0;103;17427;0;29;10572;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;9-LL-1D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;138;66765;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ANC_TUPI;9-LL-7-RJS;Mar;FPSO CIDADE DE SAQUAREMA;494;7769;0;130;27727;0;16;32228;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;1-BRSA-1146-RJS;Mar;Petrobras 70;31925;20634;0;7280;46122;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;3-BRSA-1172-RJS;Mar;Petrobras 70;34813;70719;0;7925;70461;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;7-ATP-6-RJS;Mar;Petrobras 70;167224;95247;0;38844;82107;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;8-ATP-4D-RJS;Mar;Petrobras 70;;;;;;23481;99687;0;0;6570;26264;0;0
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;9-ATP-1-RJS;Mar;Petrobras 70;146781;15158;0;33627;2977;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;9-ATP-3-RJS;Mar;Petrobras 70;;;;;;52467;58781;0;0;14680;43098;0;0
+2022;02/2022;Rio de Janeiro;Santos;ATAPU;9-BRSA-1284-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATLANTA;7-ATL-2HP-RJS;Mar;Petrojarl 1;16803;7;0;725;20062;0;5927;79;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATLANTA;7-ATL-3H-RJS;Mar;Petrojarl 1;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ATLANTA;7-ATL-4HB-RJS;Mar;Petrojarl 1;19923;8;0;724;99138;0;4374;33;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BERBIGÃO;7-BBG-2D-RJS;Mar;Petrobras 68;61062;9885;0;5559;1519;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BERBIGÃO;8-BBG-3-RJS;Mar;Petrobras 68;;;;;;0;92233;3;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BERBIGÃO;8-BBG-4D-RJS;Mar;Petrobras 68;;;;;;0;50655;36;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BERBIGÃO;9-BBG-1D-RJS;Mar;Petrobras 68;80155;62685;0;6690;65098;0;921;74885;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;3-BRSA-1053-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;3-BRSA-1064-RJS;Mar;Petrobras 76;33255;47602;0;8706;59845;0;167;11244;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;3-BRSA-1184-RJS;Mar;Petrobras 77;26988;1342;0;6716;93616;0;27;1502;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-10-RJS;Mar;Petrobras 75 (P-75);32245;86438;0;7842;80743;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-12-RJS;Mar;Petrobras 77;44791;19084;0;12404;986;0;44;83615;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-14DA-RJS;Mar;Petrobras 74 (P-74);33925;59626;0;9184;90851;0;33;95902;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-17-RJS;Mar;Petrobras 74 (P-74);19667;86595;0;5492;91699;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-23-RJS;Mar;Petrobras 75 (P-75);50369;48172;0;11957;72403;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-24D-RJS;Mar;Petrobras 76;48229;21071;0;13177;27264;0;145;1232;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-25-RJS;Mar;Petrobras 74 (P-74);42609;15029;0;10527;29353;0;6;55702;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-29D-RJS;Mar;Petrobras 75 (P-75);18080;46913;0;5720;1567;0;13;16261;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-30-RJS;Mar;Petrobras 77;48788;96555;0;11546;10409;0;20;21271;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-31D-RJS;Mar;Petrobras 76;53842;26926;0;14433;38868;0;162;1263;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-36DA-RJS;Mar;Petrobras 77;16919;43283;0;5692;69511;0;16;93666;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;7-BUZ-6-RJS;Mar;Petrobras 74 (P-74);;;;;;16562;36644;0;0;5006;80332;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-11A-RJS;Mar;Petrobras 77;;;;;;19817;7456;0;0;4702;49259;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-15-RJS;Mar;Petrobras 74 (P-74);;;;;;0;804;2162;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-16-RJS;Mar;Petrobras 76;;;;;;0;34729;48446;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-19D-RJS;Mar;Petrobras 76;;;;;;0;26905;77626;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-20-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-21D-RJS;Mar;Petrobras 77;;;;;;0;26953;53565;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-22D-RJS;Mar;Petrobras 74 (P-74);;;;;;14742;16449;0;0;4456;55626;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-27D-RJS;Mar;Petrobras 76;;;;;;13801;93205;0;0;3357;71174;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-28DA-RJS;Mar;Petrobras 75 (P-75);;;;;;16695;90866;0;0;4038;31557;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-32DA-RJS;Mar;Petrobras 77;;;;;;0;26572;72052;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-35-RJS;Mar;Petrobras 77;;;;;;25480;5082;0;0;6046;28855;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;8-BUZ-5-RJS;Mar;Petrobras 74 (P-74);;;;;;0;672;44456;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BRSA-1191-RJS;Mar;Petrobras 74 (P-74);9001;15205;0;2616;25839;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-1-RJS;Mar;Petrobras 76;32414;96503;0;7831;66025;0;64;95883;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-2-RJS;Mar;Petrobras 75 (P-75);;;;;;15616;19404;0;0;3776;94283;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-3-RJS;Mar;Petrobras 75 (P-75);43357;44547;0;10478;14297;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-4-RJS;Mar;Petrobras 77;53834;13715;0;13107;72734;0;53;8893;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-42-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-48D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-7-RJS;Mar;Petrobras 74 (P-74);30221;49382;0;7217;86987;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS;9-BUZ-8-RJS;Mar;Petrobras 76;;;;;;18964;6343;0;0;4652;34208;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;3-BRSA-1064-RJS;Mar;Petrobras 76;94060;8884;0;24625;82157;0;472;66166;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;3-BRSA-1184-RJS;Mar;Petrobras 77;76333;14079;0;18998;24289;0;76;40889;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-10-RJS;Mar;Petrobras 75 (P-75);91204;49422;0;22182;66742;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-12-RJS;Mar;Petrobras 77;126687;809;0;35083;86453;0;126;81445;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-14DA-RJS;Mar;Petrobras 74 (P-74);95955;46303;0;25978;67813;0;96;4928;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-17-RJS;Mar;Petrobras 74 (P-74);55628;76962;0;15536;21588;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-23-RJS;Mar;Petrobras 75 (P-75);142465;4973;0;33821;33477;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-24D-RJS;Mar;Petrobras 76;136411;93534;0;37270;71701;0;410;46727;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-25-RJS;Mar;Petrobras 74 (P-74);120516;10589;0;29775;49214;0;18;54553;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-29D-RJS;Mar;Petrobras 75 (P-75);51138;96196;0;16178;94277;0;37;22885;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-30-RJS;Mar;Petrobras 77;137995;15099;0;32657;10513;0;57;16954;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-31D-RJS;Mar;Petrobras 76;152287;96082;0;40823;52692;0;458;23744;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-36DA-RJS;Mar;Petrobras 77;47855;7648;0;16101;27019;0;47;9033;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;7-BUZ-6-RJS;Mar;Petrobras 74 (P-74);;;;;;46845;14709;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-11A-RJS;Mar;Petrobras 77;;;;;;56050;79284;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-15-RJS;Mar;Petrobras 74 (P-74);;;;;;0;2274;10192;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-16-RJS;Mar;Petrobras 76;;;;;;0;98229;1876;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-19D-RJS;Mar;Petrobras 76;;;;;;0;76100;54008;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-21D-RJS;Mar;Petrobras 77;;;;;;0;76235;62359;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-22D-RJS;Mar;Petrobras 74 (P-74);;;;;;41696;87123;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-27D-RJS;Mar;Petrobras 76;;;;;;39037;50928;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-28DA-RJS;Mar;Petrobras 75 (P-75);;;;;;47222;85895;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-32DA-RJS;Mar;Petrobras 77;;;;;;0;75158;52264;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-35-RJS;Mar;Petrobras 77;;;;;;72068;611;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;8-BUZ-5-RJS;Mar;Petrobras 74 (P-74);;;;;;0;1901;94827;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BRSA-1191-RJS;Mar;Petrobras 74 (P-74);25458;93973;0;7399;84893;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-1-RJS;Mar;Petrobras 76;91682;77992;0;22151;13848;0;183;72959;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-2-RJS;Mar;Petrobras 75 (P-75);;;;;;44168;9843;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-3-RJS;Mar;Petrobras 75 (P-75);122632;5902;0;29636;47429;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-4-RJS;Mar;Petrobras 77;152264;9599;0;37074;1443;0;152;42049;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-7-RJS;Mar;Petrobras 74 (P-74);85478;74598;0;20415;8841;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;BÚZIOS_ECO;9-BUZ-8-RJS;Mar;Petrobras 76;;;;;;53638;12843;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;ITAPU;1-BRSA-1116-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;ITAPU;3-BRSA-1215-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;MERO;3-BRSA-1305A-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;MERO;3-BRSA-1322-RJS;Mar;FPSO PIONEIRO DE LIBRA;212282;71589;0;90447;99394;0;873;94087;;;;;
+2022;02/2022;Rio de Janeiro;Santos;MERO;3-BRSA-1350-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;MERO;9-MRO-5-RJS;Mar;FPSO PIONEIRO DE LIBRA;;;;;;81740;91861;0;0;30045;53719;0;0
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;1-BRSA-1146-RJS;Mar;Petrobras 70;6629;64348;0;1511;87301;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;3-BRSA-1172-RJS;Mar;Petrobras 70;7229;47458;0;1645;86539;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;7-ATP-6-RJS;Mar;Petrobras 70;34726;22297;0;8066;58234;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;8-ATP-4D-RJS;Mar;Petrobras 70;;;;;;4876;3117;0;0;1364;3917;0;0
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;9-ATP-1-RJS;Mar;Petrobras 70;30480;82779;0;6983;4673;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;OESTE DE ATAPU;9-ATP-3-RJS;Mar;Petrobras 70;;;;;;10895;50974;0;0;3048;56319;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE BERBIGÃO;4-BRSA-1226-RJS;Mar;Petrobras 68;144;536;0;13;85845;0;1;61;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE BERBIGÃO;7-SBBG-2-RJS;Mar;Petrobras 68;;;;;;67210;0;0;14638;33787;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;3-BRSA-496-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;3347;58197;0;1073;445;0;1265;63745;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;3-BRSA-755A-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;185;79015;0;0;45;56777;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;3-BRSA-854-RJS;Mar;Petrobras 69;0;9709;0;0;2015;0;0;22;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;3-BRSA-883-RJS;Mar;Petrobras 66 (P-66);4836;42638;0;2545;88944;0;225;86777;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;4-BRSA-1047-RJS;Mar;Petrobras 69;6891;50853;0;1432;46511;0;248;59842;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-10-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;11194;41591;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-100-RJS;Mar;Petrobras 66 (P-66);5999;5166;0;1590;34203;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-102D-RJS;Mar;Petrobras 66 (P-66);702;52343;0;314;66234;0;68;21173;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-105-RJS;Mar;Petrobras 66 (P-66);7575;34301;0;1553;50167;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-11-RJS;Mar;FPSO CIDADE DE PARATY;718;3872;0;260;28056;0;3096;99046;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-110D-RJS;Mar;Petrobras 67 (P-67);7134;29697;0;2158;84451;0;2;14155;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-113D-RJS;Mar;Petrobras 67 (P-67);7511;85109;0;1508;76534;0;7;52724;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-115-RJS;Mar;Petrobras 67 (P-67);7875;17741;0;1768;34302;0;7;89155;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-119D-RJS;Mar;FPSO CIDADE DE PARATY;6753;53123;0;2908;90524;0;10;48573;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-15D-RJS;Mar;FPSO CIDADE DE PARATY;9170;3999;0;2382;51949;0;233;79342;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-17D-RJS;Mar;FPSO CIDADE DE PARATY;0;6098;0;0;1672;0;0;1927;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-22D-RJS;Mar;FPSO CIDADE DE PARATY;6747;9076;0;1581;55322;0;48;18566;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-28D-RJS;Mar;FPSO CIDADE DE PARATY;7460;81424;0;1599;80767;0;290;3569;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-34D-RJS;Mar;Petrobras 67 (P-67);5726;4222;0;1248;42142;0;781;73153;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-3D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;536;78261;0;129;95413;0;1085;54086;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-46-RJS;Mar;FPSO CIDADE DE SAQUAREMA;3852;22996;0;2091;59607;0;245;73324;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-48D-RJS;Mar;FPSO CIDADE DE MARICÁ;0;11217;0;0;2665;0;0;58;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-58-RJS;Mar;FPSO CIDADE DE MARICÁ;1409;96195;0;437;39091;0;2004;83894;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-59-RJS;Mar;FPSO CIDADE DE SAQUAREMA;6477;76367;0;1890;6188;0;863;72165;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-60D-RJS;Mar;Petrobras 66 (P-66);0;3236;0;0;1697;0;0;228;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-61-RJS;Mar;FPSO CIDADE DE MARICÁ;7456;33362;0;1596;7711;0;22;44092;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-66-RJS;Mar;FPSO CIDADE DE MARICÁ;7603;95166;0;1591;32284;0;92;37254;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-67D-RJS;Mar;Petrobras 67 (P-67);2940;44463;0;1905;45438;0;2;94612;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-68-RJS;Mar;Petrobras 67 (P-67);7107;18052;0;1508;6515;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-69-RJS;Mar;Petrobras 66 (P-66);6573;50835;0;1323;26014;0;556;23681;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-70-RJS;Mar;Petrobras 69;3129;7811;0;2144;34674;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-79D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;1638;59309;0;382;84789;0;2172;14044;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-80DB-RJS;Mar;FPSO CIDADE DE SAQUAREMA;8163;83566;0;1978;22972;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-84D-RJS;Mar;FPSO CIDADE DE MARICÁ;7426;84372;0;1604;7723;0;143;87959;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-85-RJS;Mar;FPSO CIDADE DE SAQUAREMA;1929;55156;0;834;78169;0;936;94179;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-90D-RJS;Mar;Petrobras 66 (P-66);6066;29816;0;1423;7507;0;266;127;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-91-RJS;Mar;FPSO CIDADE DE SAQUAREMA;7473;82257;0;1659;79705;0;7;47648;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-95D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;4660;96911;0;965;88794;0;209;50335;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-LL-97-RJS;Mar;Petrobras 66 (P-66);4379;9898;0;827;2368;0;480;2965;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-SLL-2-RJS;Mar;Petrobras 69;8291;51898;0;1742;7826;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-SLL-3-RJS;Mar;Petrobras 69;2433;4806;0;1231;27481;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-SLL-5-RJS;Mar;Petrobras 69;7727;94936;0;2520;98431;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;7-SLL-8D-RJS;Mar;Petrobras 69;2428;25965;0;1188;7803;0;6;92364;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-101D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;6043;6285;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-104D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;9934;63315;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-107-RJS;Mar;Petrobras 67 (P-67);;;;;;0;9761;6958;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-108D-RJS;Mar;Petrobras 67 (P-67);;;;;;0;6391;41556;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-109-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;6209;38595;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-112-RJS;Mar;Petrobras 66 (P-66);;;;;;0;8512;64683;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-14D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;9205;39736;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-18-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;19094;54277;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-26D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;3651;95679;0;0;986;17085;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-35D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;4048;47668;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-42D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;4336;25805;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-49D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;9400;93228;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-4D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;1878;0;0;0;66;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-5-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;9439;65045;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-50-RJS;Mar;Petrobras 66 (P-66);;;;;;0;6252;95697;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-52D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;3347;53698;0;0;1161;718;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-57D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;8605;76849;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-71D-RJS;Mar;Petrobras 66 (P-66);;;;;;5158;53679;0;0;1938;6221;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-74-RJS;Mar;Petrobras 66 (P-66);;;;;;2091;27651;0;0;785;6925;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-76D-RJS;Mar;Petrobras 67 (P-67);;;;;;5620;76317;0;0;781;28597;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-77D-RJS;Mar;Petrobras 69;;;;;;1170;4202;0;0;197;33279;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-78D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;3277;15872;0;0;1092;40462;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-81D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;5306;42453;0;1450;45037;0;1010;10472;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-82D-RJS;Mar;Petrobras 67 (P-67);;;;;;4723;93027;0;0;656;6262;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-86D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;9890;83259;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-87D-RJS;Mar;FPSO CIDADE DE MARICÁ;7776;47994;0;1714;42897;0;603;44095;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-88D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;17397;55893;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-89-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;2446;51302;0;0;815;5406;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-9-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;331;53643;0;0;289;67916;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-92-RJS;Mar;Petrobras 66 (P-66);;;;;;0;7847;96229;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-93D-RJS;Mar;Petrobras 66 (P-66);;;;;;0;6374;98818;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-94D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;9973;28289;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-LL-98D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;11148;97086;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-SLL-1D-RJS;Mar;Petrobras 69;;;;;;4930;7378;0;0;831;21033;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-SLL-6-RJS;Mar;Petrobras 69;;;;;;0;5981;41182;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;8-SLL-7-RJS;Mar;Petrobras 69;;;;;;0;5981;41109;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;9-BRSA-908D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;1599;59007;0;492;26522;0;574;65621;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;9-LL-12D-RJS;Mar;FPSO CIDADE DE MARICÁ;7666;72843;0;2038;36727;0;113;31807;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;9-LL-19-RJS;Mar;Petrobras 67 (P-67);6540;77328;0;1377;22443;0;388;52397;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;9-LL-1D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;1851;48;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;SUL DE TUPI;9-LL-7-RJS;Mar;FPSO CIDADE DE SAQUAREMA;6595;18181;0;1739;799;0;217;88409;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SURURU;3-BRSA-1181D-RJS;Mar;Petrobras 68;38339;26685;0;7797;71014;0;1473;70182;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SURURU;7-SRR-2-RJS;Mar;Petrobras 68;117120;81083;0;29373;93472;0;24;73998;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SURURU;7-SRR-3D-RJS;Mar;Petrobras 68;84202;42988;0;16692;85487;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SURURU;8-SRR-1A-RJS;Mar;Petrobras 68;;;;;;7874;86596;0;0;1715;1456;0;0
+2022;02/2022;Rio de Janeiro;Santos;SURURU;9-BRSA-1212-RJS;Mar;Petrobras 68;111150;7984;0;21659;80854;0;285;52798;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;1-BRSA-976-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;3-BRSA-1201-RJS;Mar;FPSO Carioca (MV-30);175790;58307;0;32933;93026;0;181;11705;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;7-SEP-6-RJS;Mar;FPSO Carioca (MV-30);147948;76738;0;27003;5715;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;8-SEP-3-RJS;Mar;FPSO Carioca (MV-30);;;;;;83241;87855;0;0;18684;47195;0;0
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;9-BRSA-1254-RJS;Mar;FPSO Carioca (MV-30);192675;6857;0;36171;70587;0;7;89519;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA;9-SEP-1-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA LESTE;3-BRSA-1201-RJS;Mar;FPSO Carioca (MV-30);24132;7447;0;4521;20968;0;24;86371;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA LESTE;7-SEP-6-RJS;Mar;FPSO Carioca (MV-30);20310;58643;0;3707;1222;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA LESTE;8-SEP-3-RJS;Mar;FPSO Carioca (MV-30);;;;;;11427;546;0;0;2565;2681;0;0
+2022;02/2022;Rio de Janeiro;Santos;SÉPIA LESTE;9-BRSA-1254-RJS;Mar;FPSO Carioca (MV-30);26450;75206;0;4965;6955;0;1;8366;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBAÚ;7-TBU-7HP-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBAÚ;9-TBU-2HA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;3-BRSA-1064-RJS;Mar;Petrobras 76;821;74456;0;215;14039;0;4;12936;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;3-BRSA-1184-RJS;Mar;Petrobras 77;666;87523;0;165;9757;0;0;66753;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-10-RJS;Mar;Petrobras 75 (P-75);796;79701;0;193;79609;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-12-RJS;Mar;Petrobras 77;1106;79266;0;306;5058;0;1;10792;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-14DA-RJS;Mar;Petrobras 74 (P-74);838;30324;0;226;95946;0;0;83918;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-17-RJS;Mar;Petrobras 74 (P-74);485;994;0;135;73015;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-23-RJS;Mar;Petrobras 75 (P-75);1244;63252;0;295;47587;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-24D-RJS;Mar;Petrobras 76;1191;74637;0;325;61096;0;3;58601;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-25-RJS;Mar;Petrobras 74 (P-74);1052;87437;0;260;12987;0;0;16206;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-29D-RJS;Mar;Petrobras 75 (P-75);446;76935;0;141;34525;0;0;32525;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-30-RJS;Mar;Petrobras 77;1205;57793;0;285;30468;0;0;49944;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-31D-RJS;Mar;Petrobras 76;1330;44533;0;356;64966;0;4;333;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-36DA-RJS;Mar;Petrobras 77;418;8009;0;140;66668;0;0;41848;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;7-BUZ-6-RJS;Mar;Petrobras 74 (P-74);;;;;;409;25685;0;0;123;71825;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-11A-RJS;Mar;Petrobras 77;;;;;;489;68084;0;0;116;19869;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-15-RJS;Mar;Petrobras 74 (P-74);;;;;;0;19;86741;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-16-RJS;Mar;Petrobras 76;;;;;;0;858;16743;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-19D-RJS;Mar;Petrobras 76;;;;;;0;664;84316;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-21D-RJS;Mar;Petrobras 77;;;;;;0;666;2328;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-22D-RJS;Mar;Petrobras 74 (P-74);;;;;;364;27954;0;0;110;12164;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-27D-RJS;Mar;Petrobras 76;;;;;;341;4633;0;0;82;9691;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-28DA-RJS;Mar;Petrobras 75 (P-75);;;;;;412;55661;0;0;99;78686;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-32DA-RJS;Mar;Petrobras 77;;;;;;0;656;61334;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-35-RJS;Mar;Petrobras 77;;;;;;629;61325;0;0;149;40399;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;8-BUZ-5-RJS;Mar;Petrobras 74 (P-74);;;;;;0;16;61614;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BRSA-1191-RJS;Mar;Petrobras 74 (P-74);222;41898;0;64;64782;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-1-RJS;Mar;Petrobras 76;800;97549;0;193;52058;0;1;6051;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-2-RJS;Mar;Petrobras 75 (P-75);;;;;;385;87687;0;0;93;32832;0;0
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-3-RJS;Mar;Petrobras 75 (P-75);1071;36477;0;258;91531;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-4-RJS;Mar;Petrobras 77;1330;24438;0;323;89251;0;1;33163;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-7-RJS;Mar;Petrobras 74 (P-74);746;77471;0;178;35383;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TAMBUATÁ;9-BUZ-8-RJS;Mar;Petrobras 76;;;;;;468;60285;0;0;114;95948;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-496-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;41916;452;0;13435;38862;0;15847;39797;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-755A-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;2326;33031;0;0;570;56686;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-821-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-830-RJS;Mar;FPSO CIDADE DE MANGARATIBA;63415;239;0;23078;23193;0;63;494;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-839A-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;64835;141;0;19355;3552;0;392;983;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-854-RJS;Mar;Petrobras 69;1;21563;0;0;25234;0;0;275;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-865A-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;3-BRSA-883-RJS;Mar;Petrobras 66 (P-66);60558;23929;0;31877;7909;0;2828;15301;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;4-BRSA-1047-RJS;Mar;Petrobras 69;86290;49359;0;17936;29524;0;3112;76944;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;4-BRSA-711-RJS;Mar;FPSO CIDADE DE MANGARATIBA;77323;13;0;33258;27574;0;388;647;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-10-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;140168;39378;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-100-RJS;Mar;Petrobras 66 (P-66);75121;61513;0;19913;1161;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-102D-RJS;Mar;Petrobras 66 (P-66);8796;49094;0;3939;97491;0;854;9811;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-103D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;110484;152;0;34641;33726;0;18814;861;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-105-RJS;Mar;Petrobras 66 (P-66);94852;97562;0;19451;82756;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-106DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-11-RJS;Mar;FPSO CIDADE DE PARATY;8990;76203;0;3259;4655;0;38778;27816;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-110D-RJS;Mar;Petrobras 67 (P-67);89330;51565;0;27031;49371;0;26;81494;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-113D-RJS;Mar;Petrobras 67 (P-67);94057;97608;0;18891;67172;0;94;24946;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-114D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;16651;458;0;5678;38254;0;4365;611;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-115-RJS;Mar;Petrobras 67 (P-67);98607;28611;0;22141;9159;0;98;8129;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-119D-RJS;Mar;FPSO CIDADE DE PARATY;84562;84242;0;36423;21279;0;131;29437;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-15D-RJS;Mar;FPSO CIDADE DE PARATY;114825;12698;0;29832;19059;0;2927;39256;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-17D-RJS;Mar;FPSO CIDADE DE PARATY;0;76344;0;0;20944;0;0;24127;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-22D-RJS;Mar;FPSO CIDADE DE PARATY;84492;42643;0;19803;6881;0;603;3462;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-27-RJS;Mar;FPSO CIDADE DE MANGARATIBA;96257;64;0;29035;60653;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-28D-RJS;Mar;FPSO CIDADE DE PARATY;93418;92933;0;20031;63805;0;3635;63969;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-31D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;27373;507;0;8046;80407;0;86702;627;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-34D-RJS;Mar;Petrobras 67 (P-67);71702;12438;0;15631;83324;0;9788;27759;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-36A-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;101395;859;0;47641;94407;0;204;41;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-3D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;6721;20402;0;1627;19284;0;13592;35856;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-41D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;161479;41;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-45D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;26444;702;0;8897;99953;0;93780;9;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-46-RJS;Mar;FPSO CIDADE DE SAQUAREMA;48234;84176;0;26189;45754;0;3076;89422;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-48D-RJS;Mar;FPSO CIDADE DE MARICÁ;1;40441;0;0;33384;0;0;734;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-51-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;99055;961;0;38175;48642;0;3076;301;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-53D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-58-RJS;Mar;FPSO CIDADE DE MARICÁ;17654;52535;0;5476;69428;0;25103;14519;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-59-RJS;Mar;FPSO CIDADE DE SAQUAREMA;81109;87917;0;23672;96501;0;10814;89829;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-60D-RJS;Mar;Petrobras 66 (P-66);0;40521;0;0;21257;0;0;2853;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-61-RJS;Mar;FPSO CIDADE DE MARICÁ;93362;82554;0;19984;92685;0;280;98851;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-63D-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-66-RJS;Mar;FPSO CIDADE DE MARICÁ;95211;19272;0;19925;39722;0;1156;62201;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-67D-RJS;Mar;Petrobras 67 (P-67);36818;12455;0;23858;72572;0;36;88879;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-68-RJS;Mar;Petrobras 67 (P-67);88990;98363;0;18882;90447;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-69-RJS;Mar;Petrobras 66 (P-66);82308;72567;0;16568;90959;0;6964;79533;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-70-RJS;Mar;Petrobras 69;39188;85892;0;26849;9629;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-73D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;69352;49;0;33427;28953;0;46619;298;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-79D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;20517;27936;0;4793;74585;0;27197;9743;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-80DB-RJS;Mar;FPSO CIDADE DE SAQUAREMA;102221;65608;0;24769;96574;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-83D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;114792;144;0;34282;83083;0;1748;502;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-84D-RJS;Mar;FPSO CIDADE DE MARICÁ;92993;57477;0;20093;80108;0;1801;55634;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-85-RJS;Mar;FPSO CIDADE DE SAQUAREMA;24160;45074;0;10452;53501;0;11731;70878;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-8H-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-90D-RJS;Mar;Petrobras 66 (P-66);75957;80559;0;17818;71981;0;3330;81862;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-91-RJS;Mar;FPSO CIDADE DE SAQUAREMA;93581;81046;0;20782;78163;0;93;61509;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-95D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;58361;29003;0;12094;15271;0;2623;24936;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-LL-97-RJS;Mar;Petrobras 66 (P-66);54843;6975;0;10358;6364;0;6013;9257;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-SLL-2-RJS;Mar;Petrobras 69;103820;41337;0;21821;8668;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-SLL-3-RJS;Mar;Petrobras 69;30464;87075;0;15417;13554;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-SLL-5-RJS;Mar;Petrobras 69;96763;8028;0;31565;94665;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;7-SLL-8D-RJS;Mar;Petrobras 69;30404;91384;0;14885;5011;0;86;69243;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-101D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;75673;95261;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-104D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;124394;30327;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-107-RJS;Mar;Petrobras 67 (P-67);;;;;;0;122228;90621;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-108D-RJS;Mar;Petrobras 67 (P-67);;;;;;0;80028;69111;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-109-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;77749;44744;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-111D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;235702;48;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-112-RJS;Mar;Petrobras 66 (P-66);;;;;;0;106589;21768;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-14D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;115263;33968;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-18-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;239088;7878;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-23-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;174420;19;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-24D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;144058;263;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-26D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;45727;1678;0;0;12348;12081;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-32D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;25604;171;0;0;267;55687;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-33-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;24430;11;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-35D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;50692;10123;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-37D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;7282;2;0;2523;2763;0;45676;626;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-38D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;65099;53;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-39-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;136435;22;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-40-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;254527;7;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-42D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;54295;4909;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-43D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;77360;266;0;0;824;66;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-44-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;150623;26;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-47-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;136040;62;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-49D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;117711;68633;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-4D-RJS;Mar;FPSO CIDADE DE PARATY;;;;;;0;23521;0;0;0;8274;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-5-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;118196;48759;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-50-RJS;Mar;Petrobras 66 (P-66);;;;;;0;78295;1236;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-52D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;41915;44265;0;0;14537;29513;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-55D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;65043;89;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-56-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;137848;25;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-57D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;107755;21977;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-65D-RJS;Mar;FPSO CIDADE DE MANGARATIBA;;;;;;0;181684;37;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-71D-RJS;Mar;Petrobras 66 (P-66);;;;;;64591;47475;0;0;24267;168;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-74-RJS;Mar;Petrobras 66 (P-66);;;;;;26185;45592;0;0;9837;87559;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-75-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;;;;;;0;64449;45;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-76D-RJS;Mar;Petrobras 67 (P-67);;;;;;70379;13965;0;0;9782;70003;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-77D-RJS;Mar;Petrobras 69;;;;;;14655;15735;0;0;2470;8594;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-78D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;41034;21668;0;0;13678;30332;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-81D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;66443;21614;0;18161;49366;0;12647;80182;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-82D-RJS;Mar;Petrobras 67 (P-67);;;;;;59149;64578;0;0;8221;80047;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-86D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;123845;86518;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-87D-RJS;Mar;FPSO CIDADE DE MARICÁ;97371;46751;0;21466;84313;0;7555;85191;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-88D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;217839;67219;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-89-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;30633;47142;0;0;10211;61215;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-9-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;4151;26102;0;0;3627;1544;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-92-RJS;Mar;Petrobras 66 (P-66);;;;;;0;98266;51718;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-93D-RJS;Mar;Petrobras 66 (P-66);;;;;;0;79822;99926;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-94D-RJS;Mar;FPSO CIDADE DE MARICÁ;;;;;;0;124878;24805;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-LL-98D-RJS;Mar;FPSO CIDADE DE SAQUAREMA;;;;;;0;139599;36328;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-SLL-1D-RJS;Mar;Petrobras 69;;;;;;61730;82623;0;0;10407;81692;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-SLL-6-RJS;Mar;Petrobras 69;;;;;;0;74894;92031;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;8-SLL-7-RJS;Mar;Petrobras 69;;;;;;0;74894;91102;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-BRSA-716-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-BRSA-908D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;20028;91132;0;6163;79066;0;7195;43013;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-12D-RJS;Mar;FPSO CIDADE DE MARICÁ;95997;23813;0;25522;9645;0;1418;88645;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-19-RJS;Mar;Petrobras 67 (P-67);81898;84021;0;17244;61124;0;4864;8164;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-1D-RJS;Mar;FPSO CIDADE DE ANGRA DOS REIS;;;;;;0;23176;89171;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-2-RJS;Mar;FPSO CIDADE DE MANGARATIBA;82279;67;0;37745;55057;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-20D-RJS;Mar;FPSO CIDADE DE ITAGUAÍ;128549;677;0;45266;4699;0;0;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-6A-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;TUPI;9-LL-7-RJS;Mar;FPSO CIDADE DE SAQUAREMA;82580;10459;0;21774;60392;0;2728;18668;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-10HP-RJS;Mar;FPSO CIDADE DE SANTOS;3139;133;0;444;12546;0;1198;574;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-14HP-RJS;Mar;FPSO CIDADE DE SANTOS;0;609;546;0;3281;18519;238;887;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-16HPA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-17DA-RJS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-19D-RJS;Mar;FPSO CIDADE DE SANTOS;12199;963;0;1299;72533;0;8452;829;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-6HP-RJS;Mar;FPSO CIDADE DE SANTOS;2000;305;0;247;56607;0;3311;42;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;7-URG-8HP-RJS;Mar;FPSO CIDADE DE SANTOS;2509;683;0;323;8553;0;2557;798;;;;;
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;8-URG-20H-RJS;Mar;FPSO CIDADE DE SANTOS;;;;;;0;13634;0;0;0;0;0;0
+2022;02/2022;Rio de Janeiro;Santos;URUGUÁ;8-URG-22HPA-RJS;Mar;FPSO CIDADE DE SANTOS;;;;;;0;20050;0;0;0;0;0;0
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-10D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-11D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-14D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-15D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-18D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-23D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-26D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-28-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-29D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-30D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-3D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-6-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-7D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-8D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAIOBA;7-CB-9D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;6-CM-37-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-10-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-11D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-13D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-19-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-22D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-23D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-24A-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-27D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-28D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-29D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-30D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-31D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-32D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-35D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-41D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-45D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-46D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-49D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-51D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-53A-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-55D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-56D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-57-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-59D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-6-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-61D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-68D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-69D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-75D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-78D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-80D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-81D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-83D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-84-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-85D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-86D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-87D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-89D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-91D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-93HPA-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-97HP-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;CAMORIM;7-CM-9D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;4-DO-18-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;4-SES-121-SE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-12D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-14D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-16-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-19-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-21D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-26DP-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;DOURADO;7-DO-8-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;1-SES-114-SE;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;3-GA-2-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;3-GA-54DP-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-15-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-23D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-24D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-25D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-35D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-4D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-55D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-58D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-61D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-62D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-63D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-64D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-66D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;GUARICEMA;7-GA-7D-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;PIRANEMA;4-BRSA-189A-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;PIRANEMA;7-PRM-9-SES;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;Sergipe;Sergipe;TARTARUGA;7-TTG-1DP-SES;Mar;Ponto de Coleta de Tartaruga;830;51031;0;72;9914;0;71;23812;;;;;
+2022;02/2022;Sergipe;Sergipe;TARTARUGA;7-TTG-2HPA-SES;Mar;Ponto de Coleta de Tartaruga;115;3159;0;0;1;0;416;6785;;;;;
+2022;02/2022;Sergipe;Sergipe;TARTARUGA;7-TTG-3D-SES;Mar;Ponto de Coleta de Tartaruga;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;1-BRSA-607-SPS;Mar;FPSO CIDADE DE ITAJAÍ;3604;49734;0;223;41806;0;9268;70744;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;3-BRSA-1024-SPS;Mar;FPSO CIDADE DE ITAJAÍ;26336;78073;0;1014;44297;0;8316;87812;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;7-BAN-1-SPS;Mar;FPSO CIDADE DE ITAJAÍ;8973;75485;0;301;78636;0;23443;27345;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;7-BAN-2-SPS;Mar;FPSO CIDADE DE ITAJAÍ;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;7-PRA-2-SPS;Mar;FPSO CIDADE DE ITAJAÍ;8488;41284;0;294;93389;0;17571;97257;;;;;
+2022;02/2022;São Paulo;Santos;BAÚNA;9-BRSA-1016-SPS;Mar;FPSO CIDADE DE ITAJAÍ;;;;;;278;756;0;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;BAÚNA;9-BRSA-999-SPS;Mar;FPSO CIDADE DE ITAJAÍ;9500;99336;0;470;16813;0;22796;31222;;;;;
+2022;02/2022;São Paulo;Santos;LAGOSTA;7-LAG-1HA-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;3-BRSA-1101-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;;;;;;0;109159;64;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;LAPA;3-BRSA-861-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;60244;77;0;14945;2621;0;872;24;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;7-LPA-1D-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;7-LPA-5D-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;60049;75;0;9959;13942;0;2970;89;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;7-LPA-6D-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;62381;79;0;10686;55984;0;3001;65;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;8-LPA-2D-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;69759;99;0;36282;10123;0;1984;68;;;;;
+2022;02/2022;São Paulo;Santos;LAPA;8-LPA-3-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;;;;;;66225;335;0;0;25438;47568;0;0
+2022;02/2022;São Paulo;Santos;LAPA;8-LPA-4D-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;;;;;;0;173067;39;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;LAPA;9-BRSA-1192-SPS;Mar;FPSO CIDADE DE CARAGUATATUBA;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;MERLUZA;7-MLZ-1D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;MERLUZA;7-MLZ-2D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;MERLUZA;7-MLZ-4D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;MERLUZA;7-MLZ-6D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-11HP-SPS;Mar;Plataforma de Mexilhão;0;1298;491;0;12444;38316;120;236;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-17HPA-SPS;Mar;Plataforma de Mexilhão;0;3851;604;0;36912;73113;509;495;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-18HA-SPS;Mar;Plataforma de Mexilhão;0;4526;857;0;42798;50578;637;993;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-19HP-SPS;Mar;Plataforma de Mexilhão;0;257;828;0;2379;9407;37;995;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-7HP-SPS;Mar;Plataforma de Mexilhão;0;1213;184;0;11743;68591;771;569;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;7-MXL-9HP-SPS;Mar;Plataforma de Mexilhão;0;1538;432;0;15975;8973;246;972;;;;;
+2022;02/2022;São Paulo;Santos;MEXILHÃO;9-MXL-2HP-SPS;Mar;Plataforma de Mexilhão;0;1365;754;0;13089;2463;133;69;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;3-BRSA-923A-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;1;53577;0;0;0;72319;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-1-SPS;Mar;FPSO CIDADE DE SÃO PAULO;138;5363;0;28;67594;0;54;49955;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-14D-SPS;Mar;FPSO CIDADE DE ILHA BELA;58;53643;0;34;62051;0;11;73267;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-17-SPS;Mar;FPSO CIDADE DE ILHA BELA;195;9254;0;95;17109;0;82;2349;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-20D-SPS;Mar;FPSO CIDADE DE ILHA BELA;370;49349;0;80;50496;0;2;30464;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-22-SPS;Mar;FPSO CIDADE DE SÃO PAULO;214;1238;0;112;68429;0;0;18902;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-2D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;216;19662;0;51;77178;0;12;38935;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-3-SPS;Mar;FPSO CIDADE DE SÃO PAULO;175;925;0;84;11838;0;0;;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-4D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;165;73186;0;36;13176;0;35;9589;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-6-SPS;Mar;FPSO CIDADE DE ILHA BELA;120;51167;0;22;31562;0;114;44546;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-7D-SPS;Mar;FPSO CIDADE DE ILHA BELA;243;47954;0;52;318;0;4;8215;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;7-SPH-8-SPS;Mar;FPSO CIDADE DE ILHA BELA;270;63853;0;59;25296;0;3;4913;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-10-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;346;217;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-11-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;170;15182;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-12DA-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;71;25007;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-19D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;301;8353;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-21D-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;188;73332;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-23-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;471;63867;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-24D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;200;96392;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;8-SPH-9-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;125;5923;0;0;61;87115;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;9-BRSA-1037-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;363;89423;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;9-BRSA-1043-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;126;90441;0;0;59;86674;0;0
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;9-BRSA-928-SPS;Mar;FPSO CIDADE DE SÃO PAULO;0;87;0;0;3;0;0;26;;;;;
+2022;02/2022;São Paulo;Santos;NORDESTE DE SAPINHOÁ;9-NESH-1-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;3-BRSA-923A-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;7;38126;0;0;3;47595;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-1-SPS;Mar;FPSO CIDADE DE SÃO PAULO;663;49941;0;137;82068;0;261;93123;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-14D-SPS;Mar;FPSO CIDADE DE ILHA BELA;281;3318;0;166;38972;0;56;38893;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-17-SPS;Mar;FPSO CIDADE DE ILHA BELA;937;6334;0;457;40247;0;394;21409;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-20D-SPS;Mar;FPSO CIDADE DE ILHA BELA;1780;62493;0;386;91584;0;11;7856;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-22-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1028;5631;0;541;57201;0;0;91035;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-2D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1039;609;0;248;82147;0;59;5461;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-3-SPS;Mar;FPSO CIDADE DE SÃO PAULO;841;51163;0;404;2819;0;0;;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-4D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;796;52329;0;173;65408;0;172;82335;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-6-SPS;Mar;FPSO CIDADE DE ILHA BELA;579;19119;0;107;2527;0;550;3652;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-7D-SPS;Mar;FPSO CIDADE DE ILHA BELA;1170;1849;0;249;93384;0;23;17484;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;7-SPH-8-SPS;Mar;FPSO CIDADE DE ILHA BELA;1300;7136;0;284;77695;0;14;65671;;;;;
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-10-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;1663;109;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-11-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;817;76583;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-12DA-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;342;43456;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-19D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;1447;3438;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-21D-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;907;6958;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-23-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;2266;73665;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-24D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;965;85101;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;8-SPH-9-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;603;60918;0;0;297;36016;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;9-BRSA-1037-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;1748;90814;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;9-BRSA-1043-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;609;91524;0;0;287;7266;0;0
+2022;02/2022;São Paulo;Santos;NOROESTE DE SAPINHOÁ;9-BRSA-928-SPS;Mar;FPSO CIDADE DE SÃO PAULO;0;433;0;0;157;0;0;138;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;1-BRSA-594-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;3-BRSA-788-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;3-BRSA-923A-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;562;3573;0;0;264;82526;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-1-SPS;Mar;FPSO CIDADE DE SÃO PAULO;50549;87756;0;10500;14026;0;19955;72004;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-14D-SPS;Mar;FPSO CIDADE DE ILHA BELA;21433;75667;0;12676;69866;0;4296;10177;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-15D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-16D-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-17-SPS;Mar;FPSO CIDADE DE ILHA BELA;71435;2463;0;34848;2906;0;30033;91358;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-20D-SPS;Mar;FPSO CIDADE DE ILHA BELA;135659;99566;0;29477;88807;0;844;8455;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-22-SPS;Mar;FPSO CIDADE DE SÃO PAULO;78362;87663;0;41260;62393;0;69;39441;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-2D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;79162;66927;0;18956;93025;0;4536;6628;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-3-SPS;Mar;FPSO CIDADE DE SÃO PAULO;64112;3862;0;30800;94895;0;0;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-4D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;60684;51747;0;13230;1695;0;13166;8743;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-5-SPS;Mar;Não Informado;0;0;0;0;0;;;;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-6-SPS;Mar;FPSO CIDADE DE ILHA BELA;44126;71468;0;8171;27442;0;41905;5147;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-7D-SPS;Mar;FPSO CIDADE DE ILHA BELA;89152;57895;0;19041;67604;0;1765;65431;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;7-SPH-8-SPS;Mar;FPSO CIDADE DE ILHA BELA;99097;13241;0;21696;25878;0;1116;69248;;;;;
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-10-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;126699;36741;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-11-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;62302;92184;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-12DA-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;26088;97957;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-19D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;110244;81748;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-21D-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;69106;68055;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-23-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;172695;24243;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-24D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;73585;4466;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;8-SPH-9-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;45987;4192;0;0;22654;93406;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;9-BRSA-1037-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;133243;5976;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;9-BRSA-1043-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;46467;47588;0;0;21920;98248;0;0
+2022;02/2022;São Paulo;Santos;SAPINHOÁ;9-BRSA-928-SPS;Mar;FPSO CIDADE DE SÃO PAULO;0;3322;0;0;12156;0;0;10782;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;3-BRSA-923A-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;12;68949;0;0;5;9757;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-1-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1140;65246;0;236;93413;0;450;29845;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-14D-SPS;Mar;FPSO CIDADE DE ILHA BELA;483;65042;0;286;4827;0;96;94092;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-17-SPS;Mar;FPSO CIDADE DE ILHA BELA;1611;92868;0;786;34182;0;677;71177;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-20D-SPS;Mar;FPSO CIDADE DE ILHA BELA;3061;15388;0;665;16507;0;19;461;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-22-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1768;25007;0;931;4144;0;1;5654;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-2D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1786;29729;0;427;76072;0;102;36884;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-3-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1446;68134;0;695;1984;0;0;;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-4D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;1369;33967;0;298;537;0;297;10877;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-6-SPS;Mar;FPSO CIDADE DE ILHA BELA;995;71442;0;184;38343;0;945;59327;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-7D-SPS;Mar;FPSO CIDADE DE ILHA BELA;2011;71863;0;429;67295;0;39;84124;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;7-SPH-8-SPS;Mar;FPSO CIDADE DE ILHA BELA;2236;11643;0;489;57336;0;25;19753;;;;;
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-10-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;2858;95828;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-11-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;1405;85885;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-12DA-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;588;69495;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-19D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;2487;66303;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-21D-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;1559;38498;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-23-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;3896;85064;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-24D-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;0;1660;43885;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;8-SPH-9-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;1037;69252;0;0;511;20576;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;9-BRSA-1037-SPS;Mar;FPSO CIDADE DE ILHA BELA;;;;;;0;3006;62804;0;0;0;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;9-BRSA-1043-SPS;Mar;FPSO CIDADE DE SÃO PAULO;;;;;;1048;53349;0;0;494;64428;0;0
+2022;02/2022;São Paulo;Santos;SUDOESTE DE SAPINHOÁ;9-BRSA-928-SPS;Mar;FPSO CIDADE DE SÃO PAULO;0;746;0;0;271;0;0;239;;;;;
